@@ -1,0 +1,14 @@
+2024-03-25T00:03:49+00:00 INFO ==== Session Set Info ====
+Flow-18 Session Set : 18_b43a12991fb3ee50a78e606eae211998
+Flow Info: {"flow_id":"18","steps":[{"id":20,"title":"Pet Food Checkout","type":"checkout"},{"id":25,"title":"Pet Food Thank You","type":"thankyou"}]}
+ Current Step-checkout
+==== Session Set Info ====
+
+2024-03-25T00:03:49+00:00 INFO Cartflows_Pro_Analytics_Tracking::save_conversion : Entering 
+2024-03-25T00:03:49+00:00 INFO 
+==== Log Start ====
+2024-03-25T00:03:49+00:00 INFO Step cookie data : 
+[]
+2024-03-25T00:03:49+00:00 INFO ==== Log End ====
+
+2024-03-25T00:03:49+00:00 INFO Cartflows_Pro_Analytics_Tracking::save_conversion : Exit 

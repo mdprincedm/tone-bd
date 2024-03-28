@@ -1,0 +1,346 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: WooCommerce GSheetConnector\n"
+"POT-Creation-Date: 2024-02-20 18:48+0530\n"
+"PO-Revision-Date: 2024-02-20 18:51+0530\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wc-gsheetconnector.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: includes/class-wc-gsheetconnector-processes.php:192
+#: includes/pages/wc-gsheetconnector-setting.php:64
+msgid "Select"
+msgstr "Select"
+
+#: includes/class-wc-gsheetconnector-role-settings-free.php:86
+#: includes/pages/wc-gsheetconnector-role-settings-free.php:15
+msgid "Roles that can access Google Sheet Page"
+msgstr "Roles that can access Google Sheet Page"
+
+#: includes/class-wc-gsheetconnector-role-settings-free.php:94
+msgid "Buy Pro"
+msgstr "Buy Pro"
+
+#: includes/class-wc-gsheetconnector-services.php:534
+msgid "Please select Google Sheet Name and Check Atleast on Google Sheet Tab !"
+msgstr ""
+"Please select Google Sheet Name and Check Atleast on Google Sheet Tab !"
+
+#: includes/class-wc-gsheetconnector-utility.php:78
+msgid "There's something wrong with your code..."
+msgstr "There's something wrong with your code..."
+
+#: includes/class-wc-gsheetconnector-utility.php:183
+msgid "Administrator"
+msgstr "Administrator"
+
+#: includes/pages/google-sheet-settings.php:19
+msgid "Integration"
+msgstr "Integration"
+
+#: includes/pages/google-sheet-settings.php:20
+msgid "WooCommerce Data Settings"
+msgstr "WooCommerce Data Settings"
+
+#: includes/pages/google-sheet-settings.php:21
+msgid "Role Settings"
+msgstr "Role Settings"
+
+#: includes/pages/google-sheet-settings.php:22
+msgid "System Status"
+msgstr "System Status"
+
+#: includes/pages/google-sheet-settings.php:23
+msgid "Beta - Version"
+msgstr "Beta - Version"
+
+#: includes/pages/google-sheet-settings.php:24
+msgid "Debug Logs"
+msgstr "Debug Logs"
+
+#: includes/pages/wc-beta-version.php:15
+msgid "Beta Opt-in"
+msgstr "Beta Opt-in"
+
+#: includes/pages/wc-beta-version.php:17 includes/pages/wc-debug-logs.php:13
+#: includes/pages/wc-gsheetconnector-setting.php:151
+#: includes/pages/wc-gsheetconnector-setting.php:177
+#: includes/pages/wc-gsheetconnector-setting.php:185
+#: includes/pages/wc-gsheetconnector-setting.php:206
+#: includes/pages/wc-gsheetconnector-setting.php:230
+#: includes/pages/wc-gsheetconnector-setting.php:261
+#: includes/pages/wc-gsheetconnector-setting.php:273
+#: includes/pages/wc-gsheetconnector-setting.php:280
+#: includes/pages/wc-gsheetconnector-setting.php:287
+#: includes/pages/wc-gsheetconnector-setting.php:294
+#: includes/pages/wc-gsheetconnector-setting.php:302
+#: includes/pages/wc-gsheetconnector-setting.php:322
+#: includes/pages/wc-gsheetconnector-setting.php:344
+#: includes/pages/wc-gsheetconnector-setting.php:361
+#: includes/pages/wc-gsheetconnector-setting.php:393
+#: includes/pages/wc-gsheetconnector-setting.php:579
+#: includes/pages/wc-gsheetconnector-setting.php:606
+#: includes/pages/wc-gsheetconnector-setting.php:614
+#: includes/pages/wc-gsheetconnector-setting.php:638
+#: includes/pages/wc-gsheetconnector-setting.php:646
+#: includes/pages/wc-gsheetconnector-setting.php:698
+#: includes/pages/wc-gsheetconnector-setting.php:706
+#: includes/pages/wc-gsheetconnector-setting.php:766
+#: includes/pages/wc-gsheetconnector-setting.php:774
+#: includes/pages/wc-gsheetconnector-setting.php:818
+#: includes/pages/wc-gsheetconnector-setting.php:826
+#: includes/pages/wc-gsheetconnector-setting.php:870
+#: includes/pages/wc-gsheetconnector-setting.php:878
+#: includes/pages/wc-gsheetconnector-setting.php:922
+#: includes/pages/wc-gsheetconnector-setting.php:930
+#: includes/pages/wc-gsheetconnector-setting.php:961
+#: includes/pages/wc-gsheetconnector-setting.php:1026
+#: includes/pages/wc-gsheetconnector-setting.php:1082
+msgid "Upgrade To Pro"
+msgstr "Upgrade To Pro"
+
+#: includes/pages/wc-beta-version.php:24
+msgid ""
+"Turn on the Beta Version feature to get notified about new beta releases. "
+"The beta version will not install automatically and you always have the "
+"option to ignore it."
+msgstr ""
+"Turn on the Beta Version feature to get notified about new beta releases. "
+"The beta version will not install automatically and you always have the "
+"option to ignore it."
+
+#: includes/pages/wc-beta-version.php:31
+msgid "Enable Beta Version"
+msgstr "Enable Beta Version"
+
+#: includes/pages/wc-beta-version.php:32
+msgid "Get updates for pre-release versions"
+msgstr "Get updates for pre-release versions"
+
+#: includes/pages/wc-beta-version.php:37 includes/pages/wc-debug-logs.php:66
+#: includes/pages/wc-gsheetconnector-role-settings-free.php:25
+msgid "Save"
+msgstr "Save"
+
+#: includes/pages/wc-gsheetconnector-integration.php:19
+msgid "WooCommerce - "
+msgstr "WooCommerce - "
+
+#: includes/pages/wc-gsheetconnector-integration.php:20
+msgid "Google Sheets Integration"
+msgstr "Google Sheets Integration"
+
+#: includes/pages/wc-gsheetconnector-integration.php:26
+msgid "Authenticate with your Google account, follow these steps:"
+msgstr "Authenticate with your Google account, follow these steps:"
+
+#: includes/pages/wc-gsheetconnector-integration.php:29
+msgid "Click on the \"Sign In With Google\" button."
+msgstr "Click on the \"Sign In With Google\" button."
+
+#: includes/pages/wc-gsheetconnector-integration.php:30
+msgid "Grant permissions for the following:"
+msgstr "Grant permissions for the following:"
+
+#: includes/pages/wc-gsheetconnector-integration.php:32
+msgid "Google Drive"
+msgstr "Google Drive"
+
+#: includes/pages/wc-gsheetconnector-integration.php:33
+msgid "Google Sheets"
+msgstr "Google Sheets"
+
+#: includes/pages/wc-gsheetconnector-integration.php:36
+msgid "Ensure that you enable the checkbox for each of these services."
+msgstr "Ensure that you enable the checkbox for each of these services."
+
+#: includes/pages/wc-gsheetconnector-integration.php:39
+msgid ""
+"This will allow the integration to access your Google Drive and Google "
+"Sheets."
+msgstr ""
+"This will allow the integration to access your Google Drive and Google "
+"Sheets."
+
+#: includes/pages/wc-gsheetconnector-integration.php:51
+msgid "Currently Active"
+msgstr "Currently Active"
+
+#: includes/pages/wc-gsheetconnector-integration.php:53
+msgid "Deactivate"
+msgstr "Deactivate"
+
+#: includes/pages/wc-gsheetconnector-integration.php:57
+msgid ""
+"On deactivation, all your data saved with authentication will be removed and "
+"you need to reauthenticate with your Google account and configure sheet name "
+"and tab."
+msgstr ""
+"On deactivation, all your data saved with authentication will be removed and "
+"you need to reauthenticate with your Google account and configure sheet name "
+"and tab."
+
+#: includes/pages/wc-gsheetconnector-integration.php:64
+msgid "Click on Sign In With Google"
+msgstr "Click on Sign In With Google"
+
+#: includes/pages/wc-gsheetconnector-integration.php:96
+msgid "Also,"
+msgstr "Also,"
+
+#: includes/pages/wc-gsheetconnector-integration.php:97
+msgid "Click Here "
+msgstr "Click Here "
+
+#: includes/pages/wc-gsheetconnector-integration.php:98
+msgid ""
+" and if it displays \"GSheetConnector for WooCommerce\" under Third-party "
+"apps with account access then remove it."
+msgstr ""
+" and if it displays \"GSheetConnector for WooCommerce\" under Third-party "
+"apps with account access then remove it."
+
+#: includes/pages/wc-gsheetconnector-integration.php:110
+#, php-format
+msgid "Connected Email Account:   <u>%s </u>"
+msgstr "Connected Email Account:   <u>%s </u>"
+
+#: includes/pages/wc-gsheetconnector-integration.php:116
+msgid ""
+"Something went wrong! Your Auth code may be wrong or expired. Please "
+"Deactivate and Re-Authenticate."
+msgstr ""
+"Something went wrong! Your Auth code may be wrong or expired. Please "
+"Deactivate and Re-Authenticate."
+
+#: includes/pages/wc-gsheetconnector-integration.php:127
+msgid ""
+"<a id=\"gs-woo-sync\" data-init=\"yes\">Click here </a> to fetch sheets "
+"detail for \"WooCommerce Data Settings\" tab."
+msgstr ""
+"<a id=\"gs-woo-sync\" data-init=\"yes\">Click here </a> to fetch sheets "
+"detail for \"WooCommerce Data Settings\" tab."
+
+#: includes/pages/wc-gsheetconnector-integration.php:134
+msgid "Debug Log ->"
+msgstr "Debug Log ->"
+
+#: includes/pages/wc-gsheetconnector-integration.php:137
+msgid "View"
+msgstr "View"
+
+#: includes/pages/wc-gsheetconnector-integration.php:138
+msgid "Clear"
+msgstr "Clear"
+
+#: includes/pages/wc-gsheetconnector-setting.php:26
+msgid "invalid-auth"
+msgstr "invalid-auth"
+
+#: includes/pages/wc-gsheetconnector-setting.php:37
+msgid ""
+"<strong>Authentication Required:</strong>\n"
+"              You must have to <a href=\"admin.php?page=wc-gsheetconnector-"
+"config&tab=integration\" target=\"_blank\">Authenticate using your Google "
+"Account</a> along with Google Drive and Google Sheets Permissions in order "
+"to enable the settings for configuration."
+msgstr ""
+"<strong>Authentication Required:</strong>\n"
+"              You must have to <a href=\"admin.php?page=wc-gsheetconnector-"
+"config&tab=integration\" target=\"_blank\">Authenticate using your Google "
+"Account</a> along with Google Drive and Google Sheets Permissions in order "
+"to enable the settings for configuration."
+
+#: includes/pages/wc-gsheetconnector-setting.php:53
+msgid "WooCommerce Google Sheet Settings"
+msgstr "WooCommerce Google Sheet Settings"
+
+#: includes/pages/wc-gsheetconnector-setting.php:62
+msgid "Google Sheet Name"
+msgstr "Google Sheet Name"
+
+#: includes/pages/wc-gsheetconnector-setting.php:95
+msgid "Google Sheet URL"
+msgstr "Google Sheet URL"
+
+#: includes/pages/wc-gsheetconnector-setting.php:107
+msgid ""
+"Not showing Sheet Name, and Sheet URL Link ? Then <a id=\"gs-woo-sync\" data-"
+"init=\"no\"> Click here </a> to fetch it. "
+msgstr ""
+"Not showing Sheet Name, and Sheet URL Link ? Then <a id=\"gs-woo-sync\" data-"
+"init=\"no\"> Click here </a> to fetch it. "
+
+#: includes/pages/wc-gsheetconnector-setting.php:115
+msgid "Google Sheets/Tab Name "
+msgstr "Google Sheets/Tab Name "
+
+#: includes/pages/wc-gsheetconnector-setting.php:160
+msgid "Headers "
+msgstr "Headers "
+
+#: includes/pages/wc-gsheetconnector-setting.php:203
+msgid " Custom Order Status "
+msgstr " Custom Order Status "
+
+#: includes/pages/wc-gsheetconnector-setting.php:242
+msgid "No Custom Orders found in your WooCommerce Store"
+msgstr "No Custom Orders found in your WooCommerce Store"
+
+#: includes/pages/wc-gsheetconnector-setting.php:258
+msgid " Other Sheet Tabs to Enable "
+msgstr " Other Sheet Tabs to Enable "
+
+#: includes/pages/wc-gsheetconnector-setting.php:319
+msgid "Product Category Filter:"
+msgstr "Product Category Filter:"
+
+#: includes/pages/wc-gsheetconnector-setting.php:390
+msgid "Google Sheet Headers (Column Name) "
+msgstr "Google Sheet Headers (Column Name) "
+
+#: wc-gsheetconnector.php:317
+msgid ""
+"GSheetConnector WooCommerce Add-on requires WooCommerce plugin to be "
+"installed and activated."
+msgstr ""
+"GSheetConnector WooCommerce Add-on requires WooCommerce plugin to be "
+"installed and activated."
+
+#: wc-gsheetconnector.php:433
+msgid "Settings"
+msgstr "Settings"
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce GSheetConnector"
+msgstr "WooCommerce GSheetConnector"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/wc-gsheetconnector/"
+msgstr "https://wordpress.org/plugins/wc-gsheetconnector/"
+
+#. Description of the plugin/theme
+msgid "Send your WooCommerce data to your Google Sheets spreadsheet."
+msgstr "Send your WooCommerce data to your Google Sheets spreadsheet."
+
+#. Author of the plugin/theme
+msgid "GSheetConnector"
+msgstr "GSheetConnector"
+
+#. Author URI of the plugin/theme
+msgid "https://www.gsheetconnector.com/"
+msgstr "https://www.gsheetconnector.com/"

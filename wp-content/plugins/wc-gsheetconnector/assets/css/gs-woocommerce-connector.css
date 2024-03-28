@@ -1,0 +1,3362 @@
+.loading {
+  background-image: url("../img/ajax-loader.gif");
+  background-position: 50% 80%;
+  background-repeat: no-repeat;
+  width: 10px;
+}
+
+.wrap {
+  margin: 10px 10px 0 2px;
+}
+
+.loading-select {
+  background-image: url("../img/ajax-loader.gif");
+  background-position: 50% 80%;
+  background-repeat: no-repeat;
+  width: 10px;
+}
+
+/* Default styles for larger screens */
+.wpforms-setting-field label {
+  line-height: 1.3;
+  font-weight: 600;
+  color: #23282d;
+  font-size: 14px;
+  margin-right: 10px;
+}
+
+.log-setting {
+  padding-top: 20px;
+}
+
+.gs-tab {
+  margin-top: 40px;
+}
+
+.gs-tab label {
+  font-size: 14px;
+}
+
+#gs-woo-code {
+  width: 24em;
+  min-height: 44px;
+  opacity: 0.6;
+  color: #6e7575;
+}
+
+.woo-valid-message {
+  font-weight: bold;
+  color: green;
+}
+
+.wp-sync-row {
+  font-style: italic;
+  margin-right: 25px;
+  background: #f3f3f3;
+  padding: 10px;
+}
+
+a#gs-woo-sync {
+  cursor: pointer;
+  font-size: 13px;
+}
+
+input#woocommerce-setting-google-access-code {
+  width: 24em;
+  height: 2.4em;
+}
+
+.gs-valid-message {
+  font-weight: bold;
+  color: green;
+}
+
+.divider {
+  margin: 30px 0px;
+}
+.li-woo-header1 {
+    position: relative;
+    margin: 0px;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 4px;
+    width: 23%;
+    display: inline-block;
+    height: 30px;
+}
+
+/* Responsive styles for smaller screens */
+@media (max-width: 768px) {
+  .li-woo-header,
+  .li-woo-header1 {
+    width: 90%; /* Full width on smaller screens */
+    margin: 10px 0; /* Adjust margin for spacing */
+  }
+
+  .li-woo-header1 .switch-field {
+    width: 30%; /* Adjust width for switch field */
+  }
+
+  .li-woo-header1 .edit-field {
+    width: 20%; /* Adjust width for edit field */
+  }
+}
+
+
+/* Default styles for larger screens */
+.li-woo-header .sort-icon {
+  width: 6%;
+  float: left;
+  margin-top: 5px;
+}
+
+.text_heading {
+  border: 1px solid #e5e5e5;
+  padding: 16px 41px;
+  border-radius: 10px;
+}
+
+.col-12 {
+  margin: 25px 0;
+}
+
+input#save-gs-woo-code {
+  background-color: #9c5c90;
+  border-color: #e27730;
+  color: #fff;
+  border: 0;
+  border-radius: 3px;
+  cursor: pointer;
+  display: inline-block;
+  margin: 20px 0px;
+  text-decoration: none;
+  text-align: center;
+  vertical-align: middle;
+  white-space: nowrap;
+  box-shadow: none;
+  padding: 9px 12px;
+  margin-top: 35px;
+}
+
+input.woo-save-btn {
+  font-weight: 600;
+  cursor: pointer;
+  background: #bb139b;
+  color: #fff;
+  border-color: #cec2bb;
+  padding: 10px;
+  margin-top: 35px;
+  font-size: 15px;
+  border-radius: 5px;
+}
+
+#gsSettingFormFree {
+  font-family: Arial, sans-serif;
+}
+
+/* Responsive styles for smaller screens */
+@media (max-width: 768px) {
+  .text_heading {
+    padding: 12px; /* Adjust padding for smaller screens */
+  }
+  
+  input#save-gs-woo-code,
+  input.woo-save-btn {
+    padding: 8px 10px; /* Adjust padding for smaller screens */
+  }
+  
+  /* Add more responsive styles as needed */
+}
+
+
+
+
+/*ahmed*/
+
+/* Default styles for larger screens */
+.gs-woo-fields {
+  background-color: #fff;
+  padding: 12px 20px;
+  border-radius: 10px;
+  border: 1px solid #e5e5e5;
+  margin-top: 25px;
+}
+
+.gs-woo-fields h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.gs-woo-fields hr {
+  border: none;
+  border-top: 1px solid #ddd;
+  margin-bottom: 10px;
+}
+
+.gs-woo-in-fields p {
+  margin-bottom: 10px;
+  margin-top: -5px;
+}
+
+.gs-woo-in-fields label {
+  padding: 8px;
+}
+
+.gs-woo-in-fields select,
+.gs-woo-in-fields input[type="button"] {
+  padding: 6px 10px;
+  font-size: 16px;
+  border-radius: 3px;
+  border: 1px solid #ccc;
+  background-color: #fff;
+}
+
+.gs-woo-in-fields select {
+  width: 100%;
+}
+
+.gs-woo-in-fields input[type="button"] {
+  background-color: #b8199a;
+  color: #fff;
+  cursor: pointer;
+  width: 160px;
+  border-radius: 5px;
+  margin-left: 10px;
+}
+
+.gs-woo-in-fields input[type="button"]:hover {
+  background-color: #a46497;
+}
+
+.error_msg {
+  color: red;
+}
+
+.loading-sign {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  background-color: #ffffff;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+  margin-left: 5px;
+}
+
+.sheet-details div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.sheet-details div p {
+  flex-grow: 1;
+  margin-right: 10px;
+  text-align: justify;
+  line-height: 1.5;
+}
+
+.sheet-details.nav-tab-active {
+  background-color: #ffff;
+  font-weight: 500;
+}
+
+.gs-name span {
+  display: none;
+  position: absolute;
+  border-radius: 5px 5px;
+  left: 350px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  font-family: Calibri, Tahoma, Geneva, sans-serif;
+  margin-left: 0;
+  z-index: 999;
+}
+
+.gs-name:hover {
+  color: #00a0d2;
+}
+
+.gs-name:hover span {
+  display: inline-block;
+  width: 300px;
+  margin-top: 20px;
+  z-index: 1001;
+}
+
+.hover-data {
+  padding: 5px;
+  background: #333;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+}
+
+h2 {
+  text-align: center;
+  background-color: #ebe9eb00;
+  border-radius: 10px;
+}
+
+span.title1,
+span.title11 {
+  color: #b8199a;
+  font-weight: 700;
+  text-align: center;
+  font-size: 16px;
+}
+
+span.title111 {
+  color: #b8199a;
+  font-weight: 600;
+  font-size: 16px;
+  font-weight: bold;
+  opacity: 0.6;
+}
+
+span.title {
+  color: #2bb723;
+  font-size: 16px;
+}
+
+/* Responsive styles for smaller screens */
+@media (max-width: 768px) {
+  /* Adjust padding, font size, and other styles as needed for smaller screens */
+  .gs-woo-fields {
+    padding: 10px;
+  }
+
+  .gs-woo-fields h2 {
+    font-size: 20px;
+  }
+
+  .gs-woo-in-fields select,
+  .gs-woo-in-fields input[type="button"] {
+    padding: 5px 8px;
+    font-size: 14px;
+  }
+  span.title {
+    color: #2bb723;
+    font-size: 16px;
+    width: 20%;
+  }
+  span.title1 {
+    color: #b8199a;
+    font-weight: 600;
+    font-size: 14px;   
+    margin-left: -269px;
+  }
+
+  /* Add more responsive styles as needed */
+}
+
+
+/* Default styles for larger screens */
+.card {
+  position: relative;
+  margin-top: 20px;
+  padding: 0.7em 2em 1em;
+  width: 58%;
+  border: 1px solid #e5e5e5;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+  background: #fff;
+  height: 50%;
+  min-width: 645px;
+}
+
+.card1 {
+  position: relative;
+  margin-top: 20px;
+  padding: 0.7em 1.3em 1em;
+  border: 1px solid #e5e5e5;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+  background: #fff;
+}
+
+.wpforms-panel-content-section-title h3 {
+  font-size: 16px;
+  color: #4aa94f;
+  padding-bottom: 10px;
+}
+
+.wp-formSelect {
+  float: left;
+  padding-right: 20px;
+  padding-left: 25px;
+}
+
+.wp-valid-notice {
+  font-weight: 500;
+}
+
+.wp-select {
+  padding: 11px 0 0 0;
+}
+
+a.nav-tab.nav-tab-active {
+  border-top: 2px solid #9c5c90;
+}
+
+input:disabled {
+  background-color: rgb(235, 235, 228);
+}
+
+.tooltip11:hover .tooltiptext11 {
+  visibility: visible;
+}
+
+.tooltip11 .tooltiptext11 {
+  visibility: hidden;
+  width: 90px;
+  background-color: #464646;
+  color: #fff;
+  text-align: left;
+  border-radius: 6px;
+  padding: 4px 4px;
+  position: absolute;
+  z-index: 1;
+  margin-top: 19px;
+  margin-left: -22px;
+}
+
+.woo-header,
+.woo-header1 {
+  list-style-type: none;
+  margin: 10px 8px 8px;
+  padding: 15px;
+  width: 100%;
+  border: 1px solid #ddd;
+  float: left;
+  background: #fff;
+  border-radius: 10px;
+  
+} 
+
+/* Responsive styles for smaller screens */
+@media (max-width: 768px) {
+  /* Adjust padding, width, and other styles as needed for smaller screens */
+  .card {
+    width: 100%;
+    min-width: auto;
+  }
+
+  .card1 {
+    padding: 0.7em 1em 1em;
+  }
+
+  .wpforms-panel-content-section-title h3 {
+    font-size: 14px;
+  }
+
+  .wp-formSelect {
+    padding-right: 10px;
+    padding-left: 15px;
+  }
+
+  .wp-select {
+    padding: 8px 0 0 0;
+  }
+
+  a.nav-tab.nav-tab-active {
+    border-top: 1px solid #9c5c90;
+  }
+
+  /* Add more responsive styles as needed */
+}
+
+/* ---- end demo content block --------- */
+
+/* Default styles for larger screens */
+.log-setting h2.title {
+  max-width: none;
+  font-weight: 700;
+  color: #4aa94f;
+  font-size: 16px;
+  text-align: center;
+}
+
+.card-support {
+  position: relative;
+  margin-top: 20px;
+  padding: 0.7em 1.3em 1em;
+  border: 1px solid #e5e5e5;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+  background: #fff;
+  margin-left: 19px;
+}
+
+.column {
+  align-self: flex-start;
+  min-width: 46%;
+  float: left;
+  width: 25%;
+  height: 250px;
+  padding: 10px;
+}
+
+.video_link a {
+  text-decoration: none;
+  color: #000;
+  font-size: 20px;
+}
+
+.doc_wrap {
+  margin-top: 40px;
+}
+
+i.fa.fa-life-ring {
+  font-size: 30px;
+  color: #019ee1;
+  margin: -4px 10px 0 10px;
+  float: left;
+}
+
+i.fa.fa-book {
+  font-size: 30px;
+  color: #019ee1;
+  margin: -4px 10px 0 10px;
+  float: left;
+}
+
+.support-block h2 {
+  padding-bottom: 15px;
+}
+
+#wpforms-gs-system-info {
+  width: 100%;
+  height: 400px;
+}
+
+/* Responsive styles for smaller screens */
+@media (max-width: 768px) {
+  /* Adjust padding, font size, and other styles as needed for smaller screens */
+  .card-support {
+    padding: 0.7em 1em 1em;
+  }
+
+  .column {
+    min-width: 100%;
+    float: none;
+    width: 100%;
+  }
+
+  .video_link a {
+    font-size: 18px;
+  }
+
+  i.fa.fa-life-ring,
+  i.fa.fa-book {
+    font-size: 24px;
+    margin: -4px 10px 0 10px;
+  }
+
+  .doc_wrap {
+    margin-top: 20px;
+  }
+  
+  #wpforms-gs-system-info {
+    height: 300px;
+  }
+
+  /* Add more responsive styles as needed */
+}
+
+/* Responsive Styles */
+
+/***** faq tab style ****/
+
+/* Default styles for larger screens */
+.collapsible {
+  background-color: #4aa94f;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: 1px solid #9a9a9a;
+  text-align: left;
+  outline: none;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.active,
+.collapsible:hover {
+  background-color: #4aa94f;
+}
+
+button.collapsible:after {
+  content: "\002B";
+  color: white;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}
+
+button.collapsible.active:after {
+  content: "\2212";
+}
+
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
+
+.tab-full {
+  margin: 20px;
+}
+
+.faq-content {
+  padding-top: 20px !important;
+}
+
+#cf7gs-system-info {
+  width: 100%;
+  height: 400px;
+}
+
+.content ul {
+  padding: 10px 20px;
+  list-style-type: square;
+}
+
+/* Responsive styles for smaller screens */
+@media (max-width: 768px) {
+  /* Adjust padding, font size, and other styles as needed for smaller screens */
+  .collapsible {
+    font-size: 14px;
+    padding: 14px;
+  }
+
+  .content {
+    padding: 0 14px;
+  }
+
+  .tab-full {
+    margin: 10px;
+  }
+
+  .faq-content {
+    padding-top: 10px !important;
+  }
+
+  #cf7gs-system-info {
+    height: 300px;
+  }
+
+  /* Add more responsive styles as needed */
+}
+
+
+/* Default styles for larger screens */
+.special input[type="checkbox"],
+input[type="radio"] {
+  border: 1px solid #b4b9be;
+  background: #fff;
+  color: #555;
+  clear: none;
+  cursor: pointer;
+  display: inline-block;
+  line-height: 0;
+  height: 16px;
+  margin: -4px 4px 0 0;
+  outline: 0;
+  padding: 0 !important;
+  text-align: center;
+  vertical-align: middle;
+  width: 16px !important;
+  min-width: 16px;
+  -webkit-appearance: none;
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+  transition: 0.05s border-color ease-in-out;
+}
+
+input.name-field {
+  width: 120px;
+}
+
+input:disabled {
+  background-color: rgb(235, 235, 228);
+}
+
+.cd-faq-items .pro {
+  color: #ff4747;
+}
+
+.gs-demo-fields span {
+  margin: 20px 0 20px 10px;
+  font-size: 15px;
+}
+
+.wp-core-ui .button-primary.hover,
+.wp-core-ui .button-primary:hover,
+.wp-core-ui .button-primary.focus,
+.wp-core-ui .button-primary:focus {
+  background: #479c4b;
+  border-color: #9c5c90;
+  color: #fff;
+}
+
+.wp-core-ui .button-primary {
+  background: #9c5c90;
+  border-color: #9c5c90;
+  color: #fff;
+  text-decoration: none;
+  text-shadow: none;
+}
+
+.gs-second-block h2 span.gs-info,
+.gs-third-block h2 span.gs-info,
+span.gs-info {
+  font-size: 14px;
+  font-style: italic;
+  color: #333;
+  font-weight: 400;
+}
+
+table.gs-field-list {
+  margin-left: 30px;
+}
+
+table.gs-field-list.special {
+  margin: 0;
+}
+
+td.gs-r-pad {
+  padding-right: 10px;
+}
+
+.gs-third-block .gs-field-list td:nth-child(2),
+.gs-third-block .gs-field-list td:nth-child(5),
+.gs-second-block .gs-field-list td:nth-child(2) {
+  font-weight: 600;
+}
+
+input[type="checkbox"] {
+  background-color: rgb(235, 235, 228) !important;
+}
+
+.soon {
+  height: 75px;
+  width: 85px;
+  margin-left: 430px;
+}
+
+input.woo-sync-btn {
+  font-weight: 600;
+  background: #9c5c90;
+  color: #fff;
+  border-color: #cec2bb;
+  padding: 10px;
+  margin-top: 35px;
+  margin-left: 10px;
+  font-size: 15px;
+  border-radius: 5px;
+}
+
+.connected-account u {
+  color: #1d9838 !important;
+  padding: 5px;
+}
+
+.connected-account {
+  margin-top: -5px !important;
+  font-size: 16px !important;
+  line-height: 24px !important;
+  font-weight: 500 !important;
+  color: #9c5c90;
+  font-weight: 800;
+}
+
+.error_msg {
+  color: #e84949;
+  font-weight: 500;
+  margin-left: 10px;
+}
+
+/* Responsive styles for smaller screens */
+@media (max-width: 768px) {
+  /* Adjust padding, font size, and other styles as needed for smaller screens */
+  .special input[type="checkbox"],
+  input[type="radio"] {
+    height: 14px;
+    width: 14px !important;
+    min-width: 14px;
+    margin: -3px 3px 0 0;
+  }
+
+  input.name-field {
+    width: 100px;
+  }
+
+  .gs-demo-fields span {
+    margin: 10px 0 10px 5px;
+    font-size: 14px;
+  }
+
+  .soon {
+    height: 65px;
+    width: 75px;
+    margin-left: 10px;
+  }
+
+  .input.woo-sync-btn {
+    margin-left: 10px;
+  }
+
+  /* Add more responsive styles as needed */
+}
+
+
+
+
+
+/* Default styles for larger screens */
+.switch-field1 input {
+  position: absolute !important;
+  clip: rect(0, 0, 0, 0);
+  height: 1px;
+  width: 1px;
+  border: 0;
+  overflow: hidden;
+}
+
+.switch-field1 label {
+  background-color: #e4e4e4;
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 7px;
+  line-height: 1;
+  text-align: center;
+  padding: 0px 8px;
+  margin-right: -4px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  transition: all 0.1s ease-in-out;
+}
+
+.switch-field1 label:hover {
+  cursor: pointer;
+}
+
+.switch-field1 label:first-of-type {
+  border-radius: 20px 0 0 20px;
+  background-color: #b8199a;
+  box-shadow: none;
+  color: #fff;
+}
+
+.switch-field1 label:last-of-type {
+  border-radius: 0 20px 20px 0;
+}
+
+.switch-label1 {
+  float: left;
+  width: 70%;
+  display: inline-block;
+}
+
+.switch-label1 span {
+  min-height: 18px;
+  display: block;
+}
+
+.li-woo-header1 .switch-field1 {
+  float: right;
+  display: inline-block;
+  width: 20%;
+  text-align: right;
+  margin-top: 3px;
+  margin-right: 4px;
+}
+
+.li-woo-header1 .edit-field1 {
+  width: 10%;
+  float: left;
+}
+
+.li-woo-header1 .sort-icon1 {
+  width: 6%;
+  float: left;
+  margin-top: 5px;
+}
+
+/* Responsive styles for smaller screens */
+@media (max-width: 768px) {
+  /* Adjust font size, padding, and other styles as needed for smaller screens */
+  .switch-field1 label {
+    font-size: 10px;
+    padding: 0px 6px;
+  }
+
+  .switch-label1 {
+    width: 50%;
+  }
+
+  .li-woo-header1 .switch-field1 {
+    width: 30%;
+  }
+
+  .li-woo-header1 .edit-field1 {
+    width: 20%;
+  }
+
+  .li-woo-header1 .sort-icon1 {
+    width: 10%;
+  }
+
+  /* Add more responsive styles as needed */
+}
+
+/*****/
+/* Default styles for larger screens */
+.switch-field input {
+  position: absolute !important;
+  clip: rect(0, 0, 0, 0);
+  height: 1px;
+  width: 1px;
+  border: 0;
+  overflow: hidden;
+}
+
+.switch-field label {
+  background-color: #e4e4e4;
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 7px;
+  line-height: 1;
+  text-align: center;
+  padding: 0px 8px;
+  margin-right: -4px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+  transition: all 0.1s ease-in-out;
+}
+
+.switch-field label:hover {
+  cursor: pointer;
+}
+
+.switch-field label:first-of-type {
+  border-radius: 20px 0 0 20px;
+  background-color: #b8199a;
+  box-shadow: none;
+  color: #fff;
+}
+
+.switch-field label:last-of-type {
+  border-radius: 0 20px 20px 0;
+}
+
+.switch-label {
+  float: left;
+  width: 70%;
+  display: inline-block;
+}
+
+.switch-label span {
+  min-height: 18px;
+  display: block;
+}
+
+.li-woo-header .switch-field {
+  float: right;
+  display: inline-block;
+  width: 20%;
+  text-align: right;
+  margin-top: 3px;
+  margin-right: 4px;
+}
+
+.li-woo-header .edit-field {
+  width: 10%;
+  float: left;
+}
+
+.li-woo-header .sort-icon {
+  width: 6%;
+  float: left;
+  margin-top: 5px;
+}
+
+.switch-field input:checked + label.switch-label-no {
+  background-color: #3c2b39;
+}
+
+.switch-checkAll {
+  width: 100%;
+  margin-bottom: 15px;
+  margin-left: 15px;
+}
+
+.switch-checkAll-label {
+  margin-right: 33px;
+  margin-top: 5px;
+  margin-left: 20px;
+  font-weight: 700;
+}
+
+/* Mobile Responsive */
+@media (max-width: 425px) {
+  /* Adjust font size, padding, and other styles as needed for smaller screens */
+  .switch-field label {
+    font-size: 10px;
+    padding: 0px 6px;
+  }
+
+  .switch-label {
+    width: 50%;
+  }
+
+  .li-woo-header .switch-field {
+    width: 30%;
+  }
+
+  .li-woo-header .edit-field {
+    width: 20%;
+  }
+
+  .li-woo-header .sort-icon {
+    width: 10%;
+  }
+
+  .edit_col_name {
+    float: right;
+  }
+
+  .label_text {
+    float: left;
+  }
+
+  /* Add more responsive styles as needed */
+}
+
+
+/* Default styles for larger screens */
+.gs-woo-cards1 {
+  float: left;
+  width: 16%;
+  background: #fff;
+  margin: 4px;
+  padding: 10px 10px;
+  text-align: center;
+  position: relative;
+  border: 1px solid #E5E5E5;
+  border-radius: 10px;
+  font-size: 14px;
+}
+
+.gs-woo-cards1,
+.woo-pointer1 {
+  opacity: 0.6;
+  /* pointer-events: none; */
+}
+.gs-woo-cards02 {
+  float: left;
+  width: 16%;
+  background: #fff;
+  margin: 4px;
+  padding: 10px 10px;
+  text-align: center;
+  position: relative;
+  border: 1px solid #E5E5E5;
+  border-radius: 10px;
+  font-size: 14px;
+}
+
+.gs-woo-cards02,
+.gs-woo-cards02 {
+  opacity: 0.6;
+  /* pointer-events: none; */
+}
+
+.button-woo-toggle1 {
+  position: relative;
+  display: block;
+  width: 25px;
+  height: 10px;
+  margin-left: 15px;
+  background-color: #756e6e;
+  border-radius: 25px;
+  border: 1px solid #756e6e;
+  transition: background-color 0.5s ease;
+}
+
+.button-tog-inactive::after {
+  top: 0px;
+  left: 3px;
+  width: 33%;
+  height: 96%;
+  border-radius: 60%;
+  background-color: #fff;
+  box-shadow: 0px 0px 5px 1px #000;
+  transition: left 0.4s ease;
+}
+
+.toggle-buttom-pos1 {
+  float: right;
+  display: inline-block;
+  margin-top: 3px;
+  margin-right: 4px;
+}
+
+.tabs-gs {
+  background: #efeded;
+  padding: 15px;
+  margin: 6px;
+  border: 1px solid #e1dbdb;
+  font-size: 14px;
+  opacity: 0.8;
+}
+
+.tabs-gs a {
+  color: #b8199a;
+  padding: 10px;
+  border-right: 1px solid;
+}
+
+.tabs-gs .active-t-gs {
+  background: #b8199a;
+  color: #fff;
+  margin-top: 5px;
+  border: 2px solid #fff;
+}
+
+.gs-woo-list-set {
+  text-decoration: none;
+}
+
+.adding_extra_table {
+  border: 1px solid #ddd;
+  padding: 5px;
+  margin-bottom: 20px;
+  margin-left: 10px;
+}
+
+.check-all-lbl {
+  font-weight: bold;
+  margin-left: 14px;
+}
+
+/* Mobile Responsive */
+@media (max-width: 768px) {
+  /* Adjust styles for smaller screens */
+  .gs-woo-cards1 {
+    width: 48%; /* Adjust the width as needed */
+    margin: 4px 2% 20px;
+  }
+
+  .button-woo-toggle1 {
+    width: 20px;
+    height: 8px;
+    margin-left: 8px;
+  }
+
+  .toggle-buttom-pos1 {
+    margin-top: 1px;
+    margin-right: 2px;
+  }
+
+  .tabs-gs {
+    padding: 10px;
+    margin: 6px;
+    font-size: 12px;
+  }
+
+  .tabs-gs a {
+    padding: 6px;
+  }
+
+  .active-t-gs {
+    margin-top: 3px;
+    border: 1px solid #fff;
+  }
+
+  .check-all-lbl {
+    font-weight: bold;
+    margin-left: 8px;
+  }
+
+  /* Add more responsive styles as needed */
+}
+
+
+
+
+/* Default styles for larger screens */
+.btn_extra_order_row {
+  height: fit-content;
+  color: #fff;
+  background: #b8199a;
+  border: 1px solid #b8199a;
+  cursor: pointer;
+  font-weight: 400;
+  padding: 5px;
+}
+
+.btn_extra_order_item_row {
+   height: fit-content;
+  color: #fff;
+  background: #b8199a;
+  border: 1px solid #b8199a;
+  cursor: pointer;
+  font-weight: 400;
+  padding: 5px;
+}
+
+.adding_extra_css option:disabled {
+  background-color: rgb(201, 192, 192);
+}
+
+.check-toggle {
+  display: none;
+}
+
+.button-woo-toggle {
+  position: relative;
+  display: block;
+  width: 25px;
+  height: 10px;
+  display: table-caption;
+  margin-left: 15px;
+/*  pointer-events: none;*/
+}
+
+.button-woo-toggle::before,
+.button-woo-toggle::after {
+  content: "";
+  display: block;
+  position: absolute;
+  cursor: pointer;
+}
+
+.button-woo-toggle::before {
+  width: 100%;
+  height: 100%;
+  background-color: #756e6e;
+  border-radius: 25px;
+  border: 1px solid #756e6e;
+  transition: background-color 0.5s ease;
+}
+
+.button-woo-toggle::after {
+  top: 1px;
+  left: 3px;
+  width: 33%;
+  height: 96%;
+  border-radius: 60%;
+  background-color: #fff;
+  box-shadow: 0px 0px 5px 1px #000;
+  transition: left 0.4s ease;
+}
+
+.check-toggle:checked + .button-woo-toggle::before {
+  background-color: #b8199a;
+  border-color: #b8199a;
+}
+
+.check-toggle:checked + .button-woo-toggle::after {
+  left: 75%;
+}
+/**/
+.check-toggle {
+  display: none;
+}
+
+.button-woo-toggle02 {
+  position: relative;
+  display: block;
+  width: 25px;
+  height: 10px;
+  display: table-caption;
+  margin-left: 15px;
+  pointer-events: none;
+}
+
+.button-woo-toggle02::before,
+.button-woo-toggle02::after {
+  content: "";
+  display: block;
+  position: absolute;
+  cursor: pointer;
+}
+
+.button-woo-toggle02::before {
+  width: 100%;
+  height: 100%;
+  background-color: #756e6e;
+  border-radius: 25px;
+  border: 1px solid #756e6e;
+  transition: background-color 0.5s ease;
+}
+
+.button-woo-toggle02::after {
+  top: 1px;
+  left: 3px;
+  width: 33%;
+  height: 96%;
+  border-radius: 60%;
+  background-color: #fff;
+  box-shadow: 0px 0px 5px 1px #000;
+  transition: left 0.4s ease;
+}
+
+.check-toggle:checked + .button-woo-toggle02::before {
+  background-color: #b8199a;
+  border-color: #b8199a;
+}
+
+.check-toggle:checked + .button-woo-toggle02::after {
+  left: 75%;
+}
+/* Mobile Responsive */
+@media (max-width: 768px) {
+  /* Adjust styles for smaller screens */
+  .btn_extra_order_row,
+  .btn_extra_order_item_row {
+    height: 24px;
+    font-size: 12px;
+  }
+
+  .adding_extra_css option:disabled {
+    font-size: 12px;
+  }
+
+  .button-woo-toggle {
+    width: 20px;
+    height: 8px;
+  }
+}
+
+
+/* Default styles for larger screens */
+.check-toggle1 {
+  display: none;
+}
+
+.button-woo-toggle1 {
+  position: relative;
+  display: block;
+  width: 25px;
+  height: 10px;
+  margin-left: 15px;
+  background-color: #756e6e;
+  border-radius: 25px;
+  border: 1px solid #756e6e;
+  transition: background-color 0.5s ease;
+}
+
+.button-tog-inactive::after {
+  top: 0px;
+  left: 3px;
+  width: 33%;
+  height: 96%;
+  border-radius: 60%;
+  background-color: #fff;
+  box-shadow: 0px 0px 5px 1px #000;
+  transition: left 0.4s ease;
+}
+
+.button-tog-inactive::after {
+  content: "";
+  display: block;
+  position: absolute;
+  cursor: pointer;
+}
+
+.button-tog-active {
+  background-color: #b8199a;
+  border-color: #b8199a;
+}
+
+.button-tog-active::after {
+  top: 0px;
+  left: 75%;
+  width: 33%;
+  height: 96%;
+  border-radius: 60%;
+  background-color: #fff;
+  box-shadow: 0px 0px 5px 1px #000;
+  transition: left 0.4s ease;
+}
+
+.button-tog-active::after {
+  content: "";
+  display: block;
+  position: absolute;
+  cursor: pointer;
+}
+
+.radio-btn-hide {
+  display: none !important;
+}
+
+.check-all-lbl {
+  font-weight: bold;
+  margin-left: 14px;
+}
+
+/* Mobile Responsive */
+@media (max-width: 768px) {
+  /* Adjust styles for smaller screens */
+  .button-woo-toggle1 {
+    width: 20px;
+    height: 8px;
+    margin-left: 10px;
+  }
+}
+
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  .gs-woo-cards1 {
+    width: 30%;
+  }
+
+  .toggle-buttom-pos1 {
+    margin-right: 10px;
+  }
+}
+
+@media (max-width: 480px) {
+  .gs-woo-cards1 {
+    width: 90%;
+    margin: 4px 0;
+  }
+
+  .toggle-buttom-pos1 {
+    float: none;
+    margin-top: 10px;
+    margin-right: 0;
+  }
+}
+
+
+/* Default styles for larger screens */
+.label_text {
+  float: left;
+}
+
+.label_text i {
+  font-size: 10px;
+  display: block;
+  text-overflow: ellipsis;
+  word-wrap: break-word;
+  overflow: hidden;
+  max-height: 3.6em;
+  line-height: 1.8em;
+}
+
+.edit_col_name,
+.update_col_name {
+  float: right;
+}
+
+/* Responsive adjustments for smaller screens */
+@media (max-width: 768px) {
+  .edit_col_name,
+  .update_col_name {
+    float: left; /* Change to left alignment on smaller screens */
+  }
+}
+
+.tabs-gs {
+  background: #efeded;
+  padding: 15px;
+  margin: 6px;
+  border: 1px solid #e1dbdb;
+  font-size: 14px;
+}
+
+.tabs-gs a {
+  color: #b8199a;
+  padding: 10px;
+  border-right: 1px solid;
+}
+
+.tabs-gs .active-t-gs {
+  background: #b8199a;
+  color: #fff;
+  margin-top: 5px;
+  border: 2px solid #fff;
+}
+
+.toggle-buttom-pos {
+  float: right;
+  display: inline-block;
+  margin-top: 3px;
+  margin-right: 4px;
+}
+
+.sync-message {
+  /*font-weight: bold;
+  color: #085008;*/
+}
+
+.sync-btn {
+  font-weight: 600!important;
+  cursor: pointer;
+  background: #b8199a!important;
+  color: #fff!important;
+  border-color: #cec2bb!important;
+  border-radius: 5px!important;
+}
+
+.download-btn {
+  font-weight: 600!important;
+  cursor: pointer;
+  background: #b8199a!important;
+  color: #fff!important;
+  border-color: #cec2bb!important;
+  border-radius: 5px!important;
+}
+
+.disable-li-wc {
+  pointer-events: none;
+  opacity: 0.6;'
+}
+
+.design-syn-ele {
+  width: 95%;
+}
+
+/* Default styles for larger screens */
+label.design-syn-ele {
+  display: flex;
+  margin: 8px;
+  font-weight: bold;
+}
+
+button.design-syn-ele {
+  margin-top: 12px!important;
+}
+
+.int-meth-btn-woo {
+  display: inline;
+}
+
+.connected-account-manual {
+  margin-top: -2px;
+  font-weight: bold;
+  padding: 5px;
+  background: #479c4b;
+  color: #fff;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.gs-woo-op-wise {
+    width: 40%;
+    background: #fff;
+    margin: 4px;
+    padding: 10px 10px;
+    text-align: center;
+    position: relative;
+    /* border: 1px solid #E5E5E5; */
+    border-radius: 10px;
+    font-size: 14px;
+}
+
+.gs-woo-op-wise label {
+  margin-right: 24px;
+}
+
+
+/* Responsive adjustments for smaller screens */
+@media (max-width: 768px) {
+  .gs-woo-op-wise {
+    width: 100%; /* Adjust width to fit smaller screens */
+    display: inline-flex;
+  }
+
+  .connected-account-manual {
+    margin-top: 0; /* Remove negative margin */
+  }
+
+  .note_orderwise {
+    /*padding: 5px 10px; */
+    padding: 5px 50px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+  }
+
+  .note_orderwise .notes {
+    padding: 5px 10px; /* Adjust padding */
+    display: flex;
+    align-items: center;
+    text-decoration: underline;
+    font-weight: bold;
+  }
+
+  .woo-btn-notes {
+    display: block; /* Change to block for better mobile layout */
+  }
+
+  .woo-btn-notes p {
+    margin-top: 10px; /* Adjust margin */
+    margin-left: 0; /* Remove left margin */
+    text-align: center; /* Center align text */
+    color: rgb(230, 136, 136);
+  }
+  .note_orderwise .message {
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    padding: 10px 20px;
+}
+/*.freez_order_sort {
+  display: flex;
+    align-items: center;
+}*/
+/*.gs-woo-cards1 {
+    float: none;
+}*/
+}
+
+
+/* Default styles for larger screens */
+.adding_extra_css {
+  width: 348px;
+}
+
+.adding_extra_table {
+  border: 1px solid #ddd;
+  padding: 5px;
+  margin-bottom: 20px;
+  margin-left: 10px;
+}
+
+.btn_extra_order_row,
+.btn_extra_order_item_row, .btn_custom_static_headers, .btn_custom_blank_headers {
+  height: fit-content;
+  color: #fff;
+  background: #b8199a;
+  border: 1px solid #b8199a;
+  cursor: pointer;
+  font-weight: 400;
+  padding: 5px;
+}
+
+.adding_extra_css option:disabled {
+  background-color: rgb(201, 192, 192);
+}
+
+.ext_header_design {
+  background: #eee2f1;
+}
+
+.remove_col_name {
+  float: right;
+  color: #630b0b;
+  margin-left: 10px;
+  font-size: 15px;
+  margin-top: 3px;
+  cursor: pointer;
+}
+
+.remove_col_name i {
+  font-size: 15px;
+}
+
+@keyframes blink {
+  0% {
+    box-shadow: none;
+  }
+  50% {
+    box-shadow: 0 0 10px #b8199a;
+  }
+  100% {
+    box-shadow: none;
+  }
+}
+
+.blinking-button-wc {
+  animation: blink 1s infinite;
+  width: 50%;
+}
+
+.gs-woo-list-set {
+  text-decoration: none;
+}
+
+/* Responsive adjustments for smaller screens */
+@media (max-width: 768px) {
+  .adding_extra_css {
+    width: 100%; /* Adjust width to fit smaller screens */
+  }
+
+  .adding_extra_table {
+    margin-left: 0; /* Remove left margin */
+  }
+
+  .btn_extra_order_row,
+  .btn_extra_order_item_row {
+    height: 24px; /* Adjust height */
+    font-size: 12px; /* Adjust font size */
+    margin-top: 5px; /* Adjust margin top */
+  }
+
+  .remove_col_name {
+    font-size: 12px; /* Adjust font size */
+  }
+
+  .remove_col_name i {
+    font-size: 12px; /* Adjust font size */
+  }
+
+  .blinking-button-wc {
+    width: 100%; /* Adjust width to fit smaller screens */
+  }
+}
+
+
+
+/* Default styles for larger screens */
+.upgrade-button {
+  text-align: center;
+  margin-top: 20px;
+  background-color: #e9dbe5;
+  border-radius: 10px;
+}
+
+.upgrade-button button {
+  background-color: #9e0da9;
+  color: #ffffff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.upgrade-button button:hover {
+  background-color: #990000;
+}
+
+.upgrade-button a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Common styles for all screens */
+.gs-woo-header-set {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 2px;
+  opacity: 0.6;
+  position: relative;
+}
+
+.upgrade-message {
+  display: none;
+  position: absolute;
+  top: -30px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #FFC0CB;
+  color: #FFF;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 14px;
+}
+
+/* Responsive adjustments for smaller screens */
+@media (max-width: 768px) {
+  .upgrade-button button {
+    padding: 8px 16px; /* Adjust padding */
+    font-size: 14px; /* Adjust font size */
+  }
+
+  .upgrade-message {
+    font-size: 12px; /* Adjust font size */
+  }
+}
+
+
+
+
+/* Default styles for larger screens */
+.gs-woo-header-set:hover .upgrade-message {
+  display: block;
+}
+
+.gs-woo-header-set:hover .upgrade-message:before,
+.gs-woo-header-set:hover .upgrade-message:after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.gs-woo-header-set:hover .upgrade-message:before {
+  border-style: solid;
+  border-width: 5px;
+  border-color: transparent transparent #FFC0CB transparent;
+}
+
+.gs-woo-header-set:hover .upgrade-message:after {
+  border-style: solid;
+  border-width: 4px;
+  border-color: transparent transparent #FFF transparent;
+}
+.note_orderwise .message {
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    padding: 10px 20px;
+}
+/*.freez_order_sort {
+  display: flex;
+    align-items: center;
+}*/
+/*.gs-woo-cards1 {
+    float: none;
+}*/
+.note_orderwise .notes {
+  padding: 5px 50px;
+    /*font-weight: 600;*/
+    display: flex;
+    align-items: center;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.note_orderwise,
+.gs-woo-op-wise {
+  opacity: 0.8;
+  pointer-events: none;
+ padding: 5px 50px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+}
+
+.note_orderwise:hover,
+.gs-woo-op-wise:hover {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.adding_extra_css:disabled {
+  opacity: 0.5;
+  pointer-events: none;
+}
+
+.adding_extra_css:disabled + label {
+  color: #999;
+}
+
+.btn_extra_order_row:disabled,
+.btn_extra_order_item_row:disabled {
+  opacity: 0.5;
+  pointer-events: none;
+}
+
+.loading-btn-extra-order-row,
+.loading-btn-extra-order-item-row {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  margin-left: 5px;
+  vertical-align: middle;
+}
+
+.lighter-text {
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.check-all-lbl {
+  opacity: 0.7;
+  pointer-events: none;
+  color: gray;
+  font-weight: bold;
+  margin-left: 14px;
+}
+
+/* Disable select options */
+.select-css option {
+  pointer-events: none;
+}
+
+/* Disable text input */
+.input-css {
+  pointer-events: none;
+}
+
+/* Disable buttons */
+.button-css {
+  pointer-events: none;
+}
+
+.woo-header .toggle-buttom-pos1,
+.woo-header .label_text,
+.woo-header .edit_col_name {
+  opacity: 0.7;
+  pointer-events: none;
+  color: gray;
+}
+.gs_woo-gs-card {
+    opacity: 0.8;
+    pointer-events: none;
+}
+
+/*beta version toggle style start*/
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 45px;
+  height: 25px;
+}
+
+.switch input { 
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 15px;
+  width: 15px;
+  left: 3px;
+  bottom: 5px;
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+input:checked + .slider {
+  background-color: #b8199a;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #b8199a;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+/*beta version toggle style end*/
+
+
+.system-debug-logs{
+    position: relative;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border: 1px solid #b5bfc9;
+    margin: 20px auto;
+    width: 100%;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+/* Styling for the "Role Settings Tab (Convert Checkbox to Toggle)" */
+.toggle-role {
+            position: relative;
+            display: inline-block;
+            width: 25px;
+            height: 10px;
+}
+.toggle-role input {
+            display: none;
+}
+.slider-role {
+            position: absolute;
+            cursor: pointer;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: gray;
+            transition: .4s;
+            border-radius: 34px;
+}
+.slider-role:before {
+            position: absolute;
+            content: "";
+            background-color: white;
+            transition: .4s;
+            border-radius: 50%;
+            left: 3px;
+            width: 45%;
+            height: 96%;
+            background-color: #fff;
+            box-shadow: 0px 0px 5px 1px #000;
+            transition: left 0.4s ease;
+ }
+ input:checked+.slider-role {
+           background-color: #b8199a;
+           border-color: #b8199a;
+}
+ input:checked+.slider-role:before {
+            transform: translateX(10px);
+}
+
+/* Responsive adjustments for smaller screens */
+@media (max-width: 768px) {
+  .check-all-lbl {
+    margin-left: 8px; /* Adjust margin for smaller screens */
+  }
+}
+
+
+/* Add responsive styles for smaller screens */
+@media (max-width: 768px) {
+  .woo-header .toggle-buttom-pos1,
+  .woo-header .label_text,
+  .woo-header .edit_col_name {
+    font-size: 12px; /* Adjust font size for smaller screens */
+  }
+}
+
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  .upgrade-button {
+    margin-top: 10px;
+  }
+}
+
+@media (max-width: 480px) {
+  .upgrade-button {
+    margin-top: 5px;
+  }
+}
+
+/* Default styles for larger screens */
+.gs-woo-google-syc-set {
+  position: relative;
+  border: 1px solid #e5e5e5;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+  background: #fff;
+  border-radius: 10px;
+  width: initial;
+}
+
+.gs-woo-google-syc-set1 {
+  position: relative;
+  border: 1px solid #e5e5e5;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+  background: #fff;
+  border-radius: 10px;
+  width: initial;
+  opacity: 0.6;
+}
+
+.gs-woo-list-set5 {
+  pointer-events: none;
+}
+
+.gs-woo-list-set {
+  text-decoration: none;
+}
+
+.mini_mize,
+.maxi_mize {
+  float: right;
+  margin-right: 2%;
+  color: #b8199a;
+}
+
+.sync-card {
+  width: 95%;
+  display: flex;
+}
+
+.gs-woo-syn-btn {
+  float: left;
+  width: 26%;
+  margin: 8px;
+  border: 1px solid #ede0e0;
+  padding: 10px;
+}
+
+span.woo-pointer {
+  cursor: pointer;
+}
+
+.design-syn-ele {
+  width: 95%;
+}
+
+label.design-syn-ele {
+  display: flex;
+  margin: 8px;
+  font-weight: bold;
+}
+
+button.design-syn-ele {
+  margin-top: 12px !important;
+}
+
+.download-card {
+  width: 47%;
+}
+
+/* Responsive adjustments for smaller screens */
+@media (max-width: 768px) {
+  .sync-card {
+    flex-direction: column; /* Stack elements vertically on smaller screens */
+  }
+
+  .gs-woo-syn-btn {
+    width: 100%; /* Full width for buttons on smaller screens */
+    margin: 8px 0; /* Adjust vertical margin for buttons */
+  }
+
+  .download-card {
+    width: 100%; /* Full width for download card on smaller screens */
+  }
+
+  .mini_mize,
+  .maxi_mize {
+    float: right; /* Remove float for minimize/maximize links */
+    margin: 8px 0; /* Adjust vertical margin for links */
+    margin: 5px;
+  }
+  .mini_mize {
+
+  }
+}
+
+
+/* Default styles for larger screens */
+.upwc1 {
+  background-color: #ae1694;
+  color: #ffffff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  opacity: 0.8;
+}
+
+.upwc1:hover {
+  background-color: #990000;
+}
+
+.upwc1 a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Headers tab */
+.gs-woo-google-set {
+  background-color: #fff;
+  border-radius: 10px;
+  opacity: 0.6;
+  border: 1px solid #e5e5e5;
+  overflow: hidden;
+  padding: 5px;
+}
+
+.gs-woo-list-set4 {
+  pointer-events: none;
+  opacity: 0.6;
+}
+
+.gs-woo-google-set1 input:disabled,
+.gs-woo-google-set1 label:disabled {
+  opacity: 0.6;
+  pointer-events: none;
+}
+
+.gs-woo-google-set1 {
+  opacity: 0.7;
+  background-color: #fff;
+  border-radius: 13px;
+}
+
+.disabled {
+  opacity: 0.6;
+  pointer-events: none;
+}
+
+/* Responsive adjustments for smaller screens */
+@media (max-width: 768px) {
+  body *{
+    display: block;
+  }
+
+  .upwc1 {
+    padding: 8px 16px; /* Adjust padding for smaller screens */
+    font-size: 14px; /* Reduce font size for smaller screens */
+  }
+
+  .upwc1:hover {
+    background-color: #990000;
+  }
+
+  /* Add responsive adjustments for .gs-woo-google-set and other relevant styles here */
+}
+
+
+.gs-woo-fields1 {
+  display: flex;
+  min-width: 255px;
+  border: 1px solid #e5e5e5;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+  background: #fff;
+  padding: 20px 10px;
+  margin-top: 25px;
+  border-radius: 10px;
+}
+
+.gs-woo-fields1 input {
+  width: 160px;
+  background-color: #9c5c90;
+  color: #fff;
+  height: 32px;
+  border-radius: 5px;
+}
+
+.gs-woo-fields1 label {
+  margin: 0 10px 0 10px;
+  float: left;
+  width: 160px;
+  font-size: 14px;
+  padding: 10px;
+}
+
+.sheet-details.nav-tab-active {
+  background-color: #fff;
+  font-weight: 500;
+}
+
+.gs-woo-fields1 span {
+  margin: 20px 0 20px 10px;
+}
+
+.gs-woo-in-fields1 {
+  background: #fff;
+  padding: 30px;
+  overflow: hidden;
+  display: flex;
+}
+
+.card-wc1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.gs-sidebar-block,
+.gs-support {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 48%;
+  padding: 20px;
+  background-color: #f5f5f5;
+  border: 1px solid #ddd;
+}
+
+.gs-sidebar-block h2.title,
+.gs-support h2.title {
+  margin-bottom: 10px;
+}
+
+.gs-review-button {
+  margin-top: 20px;
+}
+
+@media (max-width: 768px) {
+  .card-wc1 {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .gs-sidebar-block,
+  .gs-support {
+    width: 100%;
+    margin-top: 20px;
+  }
+
+  .gs-woo-google-syc-set1 {
+    position: relative;
+    border: 1px solid #e5e5e5;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+    background: #fff;
+    border-radius: 10px;
+    width: initial;
+    opacity: 0.6;
+  }
+}
+
+.gform-settings-field.titlea {
+  background-color: #9c5c90;
+}
+
+.gform-settings-field:hover::before {
+  content: "Upgrade to Pro";
+  position: absolute;
+  top: -30px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #333;
+  padding: 10px 40px;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  background-color: #4caf50;
+  color: #ffffff;
+  border-radius: 30px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.gform-settings-field:hover::after {
+  content: "";
+  position: absolute;
+  top: -10px;
+  left: 50%;
+  transform: translateX(-50%);
+  border: 6px solid transparent;
+  border-top-color: #333;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.gform-settings-field:hover::before,
+.gform-settings-field:hover::after {
+  opacity: 1;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  .gs-woo-fields1 {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .gs-woo-fields1 input {
+    width: 100%;
+  }
+
+  .gs-woo-fields1 label {
+    width: 100%;
+    margin: 10px 0;
+  }
+
+  .gs-woo-in-fields1 {
+    padding: 20px;
+  }
+}
+
+/*ahmned*/
+/* Default styles for larger screens */
+.gs-woo-in-fields {
+  flex-basis: 70%;
+  margin-right: 20px;
+  justify-content: center;
+}
+
+.flex {
+  display: flex;
+}
+
+.card-wp {
+  border: 1px solid #b5bfc9;
+  padding: 15px;
+  margin: 12px;
+  border-radius: 5px;
+  background-color: #fff;
+  display: flex;
+  width: auto;
+  border-radius: 6px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  font-weight: 600;
+}
+
+.gs-woo-in-fields,
+.gs-sidebar-block,
+.gs-support {
+  flex: 1;
+  margin-right: 20px;
+}
+
+.gs-woo-in-fields h2 {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.gs-woo-in-fields hr {
+  border: none;
+  border-top: 1px solid #ccc;
+  margin: 10px 0;
+}
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 200px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -100px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+
+.help-icon {
+  width: 16px;
+  height: 16px;
+}
+
+.loading-sign,
+.clear-loading-sign {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+}
+
+.button_woogsc {
+  position: relative;
+  overflow: hidden;
+  display: inline-block;
+}
+
+.button_woogsc::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.4);
+  border-radius: 0;
+  animation: ripple 1s linear infinite;
+  transform-origin: top left;
+  opacity: 0.8;
+}
+
+@keyframes ripple {
+  0% {
+    transform: scale(0);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale(2);
+    opacity: 0;
+  }
+}
+
+.gs-woo-validation-message {
+  margin-top: 10px;
+}
+
+.gs-woo-sync-row {
+  display: flex;
+  align-items: center;
+}
+
+#gs-woo-sync {
+  font-size: 18px;
+  font-weight: bold;
+  color: #fff;
+  background-color: #118515;
+  padding: 2px 10px;
+  border-radius: 10px;
+  text-decoration: none;
+  transition: background-color 0.3s;
+  margin-right: 8px;
+  margin-left: 6px;
+  margin-top: 3px;
+}
+
+#gs-woo-sync:hover {
+  background-color: #b7609c;
+}
+
+.connected-account {
+  margin-top: 20px;
+  padding: 1px;
+}
+
+/* Responsive adjustments for smaller screens */
+@media (max-width: 768px) {
+  .gs-woo-in-fields {
+    flex-basis: 100%; /* Full width for smaller screens */
+    margin-right: 0; /* No margin for smaller screens */
+  }
+
+  .card-wp {
+    margin: 12px 0; /* Adjust margins for smaller screens */
+  }
+  .button_woogsc {
+    position: relative;
+  }
+
+  .button_woogsc::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 0;
+    animation: ripple 1s linear infinite;
+    transform-origin: top left;
+    opacity: 0.8;
+  }
+  .gs-woo-in-fields hr {
+    border: none;
+    border-top: 1px solid #ccc;
+    margin: 10px 0;
+    width: 55%;
+  }
+
+  /* Add additional responsive adjustments here */
+}
+
+.gs-sidebar-block {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #f8f8f8;
+}
+
+.gs-sidebar-block .title {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.gs-stars {
+  /* Add styles for displaying stars */
+}
+
+.gs-review-button {
+  margin-top: 10px;
+}
+
+.gs-support {
+  margin-top: 20px;
+}
+
+.gs-support .title {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.gs-support h4 {
+  margin: 0;
+  font-size: 14px;
+}
+
+.gs-sidebar-block,
+.gs-support {
+  flex-basis: 30%;
+}
+/* Default styles for larger screens */
+.gs-woo-in-fields p {
+  display: flex;
+  align-items: center;
+  margin-left: 10px;
+  margin:1em;
+}
+
+.gs-woo-in-fields p label {
+  color: #242628;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 2.3;
+}
+
+.gs-woo-in-fields p button {
+  background-color: #118515;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 14px;
+  text-decoration: none;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.gs-woo-in-fields p button:hover {
+  background-color: #15842e;
+}
+
+.gs-woo-in-fields p .gs-woo-debug-view {
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.gs-woo-in-fields p .clear-loading-sign {
+  margin-left: 5px;
+}
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+  .gs-woo-in-fields p {
+      margin-bottom: 10px;
+      margin-top: -5px;
+      width: 50%;
+    }
+
+
+  .gs-woo-in-fields p label {
+    margin-bottom: 5px;
+  }
+
+  .gs-woo-in-fields p button {
+    margin-top: 5px;
+    margin-right: 0;
+  }
+}
+
+
+
+/* Style the container */
+/* Default styles for larger screens */
+#wc-gsc-cta {
+  background-color: rgba(16, 172, 132, 0.06);
+  border: 2px solid #10AC84;
+  padding: 1.5rem;
+  margin-bottom: 18px;
+  display: flex;
+  flex-direction: column; /* Change to column layout to stack elements vertically */
+  align-items: center;
+  border-radius: 6px;
+  width: 80%;
+  margin-top: 10px;
+}
+
+/* Style the lock icon */
+#wc-gsc-cta i.dashicons-lock {
+  font-size: 2rem;
+  line-height: 50px;
+  width: 50px;
+  height: 50px;
+  margin-right: 1.25rem;
+  color: #10AC84;
+  border-radius: 50px;
+  background: rgba(16, 172, 132, 0.1);
+}
+
+/* Style the text */
+#wc-gsc-cta p {
+  font-size: 0.9375rem;
+  margin: 0;
+  color: #5f8c80;
+  display: flex; /* Enable flex display for the text */
+  align-items: center; /* Vertically center-align text and icon */
+  width: 100%; /* Ensure the text takes up the full width of the container */
+}
+
+/* Limit the width to 80% and allow text to wrap */
+#wc-gsc-cta .wc-gsc-less-free {
+  width: 80%;
+  word-wrap: break-word; /* Allow long words to break onto a new line */
+}
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+  /* Adjust the container width for smaller screens */
+  #wc-gsc-cta {
+    width: 45%;
+  }
+
+  /* Center-align the lock icon and reduce the margin */
+  #wc-gsc-cta i.dashicons-lock {
+    margin-right: 0.5rem;
+  }
+}
+
+/* Default styles for larger screens */
+.wpform-gs-alert-kk {
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: 2px solid #6666c3; /* Add border with color */
+  padding: 20px; /* Add padding for spacing */
+}
+
+.wpform-gs-alert-heading {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 10px;
+  color: #242628;
+}
+
+.wpform-gs-alert-steps {
+  margin-top: 0;
+  margin-bottom: 20px;
+  padding-left: 0px;
+  list-style: none; /* Remove default list marker */
+}
+
+.wpform-gs-alert-steps li {
+  margin-bottom: 7px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  font-weight: 500;
+  color: #7f868d;
+  position: relative;
+  margin-left: -19px;
+}
+
+.wpform-gs-alert-steps li::before {
+  font-family: 'dashicons';
+  font-size: 16px;
+  line-height: 18px;
+  display: inline-block;
+  width: 18px;
+  margin-right: 8px;
+  content: '\f15e';
+  text-align: center;
+  vertical-align: -2px;
+  color: #fff;
+  border-radius: 50%;
+  background: #10AC84;
+}
+
+.wpform-gs-alert-permissions {
+  list-style-type: none; /* Remove the default list marker */
+  margin-top: 0;
+  margin-bottom: 10px;
+  padding-left: 20px;
+  margin-top: 10px;
+}
+
+.wpform-gs-alert-note {
+  font-style: italic;
+  color: #888;
+}
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+  /* Adjust the container width for smaller screens */
+  .wpform-gs-alert-kk {
+    width: 53%;
+  }
+
+  /* Center-align the lock icon and reduce the margin */
+  .wpform-gs-alert-steps li {
+    margin-left: 0;
+  }
+}
+
+/*for display error Logs style start*/
+/* Default styles for larger screens */
+.wcdisplayLogs {
+  cursor: default;
+  font-family: monospace;
+  border: 1px solid #ccc;
+  padding: 10px;
+  background-color: #32344b;
+  width: 100%;
+  height: 400px;
+  border-color: #32344b;
+  color: azure;
+  overflow: auto;
+  padding: 2px 6px;
+  line-height: 1.42857143;
+  resize: vertical;
+}
+
+.wcgsc-logs {
+  background: #2271b1;
+  border-color: #2271b1;
+  color: #fff;
+  text-decoration: none;
+  text-shadow: none;
+  display: inline-block;
+  text-decoration: none;
+  font-size: 13px;
+  min-height: 30px;
+  padding: 0 10px;
+  cursor: pointer;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+}
+
+.protitle {
+  display: inline-block;
+  padding: 5px 10px;
+  background-color: #FFD700; /* Golden yellow background */
+  color: #333; /* Text color */
+  font-weight: bold;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  overflow: hidden;
+  cursor: pointer;
+  white-space: nowrap; /* Prevent text from wrapping */
+  margin-bottom: -9px;
+  font-size: 10px;
+}
+
+.protitle::before {
+  content: '\2192'; /* Right arrow character */
+  margin-right: 5px;
+  font-size: 16px;
+}
+
+.protitle::after {
+  content: '\2713'; /* Checkmark character */
+  font-size: 14px;
+  margin-left: 5px;
+  vertical-align: middle; /* Vertically align the checkmark */
+  color: #008000; /* Green checkmark color */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.protitle:hover {
+  background-color: #FFA500; /* Orange background on hover */
+  color: #fff; /* White text on hover */
+}
+
+.protitle:hover::after {
+  opacity: 1; /* Show the checkmark on hover */
+}
+/*for user not sheets permissions display note style */
+.wc-display-note{
+    border: 1px solid #c3c4c7;
+    border-left-width: 4px;
+    border-left-color: #d63638;
+    margin: 5px 0 15px;
+    background: #fff;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    padding: 12px 12px;
+}
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+  /* Adjust the font size and padding for smaller screens */
+  .wcdisplayLogs {
+    font-size: 12px;
+    padding: 5px;
+    width: 55%;
+  }
+
+  .wcgsc-logs {
+    font-size: 12px;
+    padding: 0 5px;
+  }
+}
+
+
+/* Add responsive styles for smaller screens */
+@media (max-width: 768px) {
+  .card-wp {
+    border: 1px solid #b5bfc9;
+    padding: 15px;
+    margin: 12px;
+    border-radius: 5px;
+    background-color: #fff;
+    display: flex;
+    width: auto;
+    border-radius: 6px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    font-weight: 600;
+  }
+
+  .gs-woo-in-fields,
+  .gs-sidebar-block,
+  .gs-support {
+    margin-right: 0;
+    margin-bottom: 10px;
+  }
+
+  .gs-woo-in-fields h2 {
+    font-size: 14px;
+  }
+  #gs-woo-code {
+    width: 24em;
+    min-height: 44px;
+    opacity: 0.6;
+    color: #6e7575;
+  }
+
+  .gs-woo-in-fields p {
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+  }
+  #gs-woo-sync {
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #118515;
+    padding: 2px 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    /* box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); */
+    transition: background-color 0.3s;
+    margin-right: 8px;
+    margin-left: 6px;
+    margin-top: 3px;
+  }
+
+  /* Add specific styles for screens narrower than 375px */
+  @media (max-width: 375px) {
+    .button_woogsc {
+      font-size: 12px; /* Adjust font size for the button */
+    }
+    .gs-woo-in-fields p {
+      display: flex;
+      align-items: center;
+      margin-left: 10px;
+      width: 50%;
+    }
+
+    #gs-woo-code {
+      width: 24em;
+      min-height: 44px;
+      opacity: 0.6;
+      color: #6e7575;
+    }
+
+    .gs-woo-in-fields select,
+    .gs-woo-in-fields input[type="button"] {
+      padding: 2px 4px;
+      font-size: 10px;
+      width:50%;
+    }
+   
+    /* Add more specific styles as needed for proper display */
+  }
+
+  /* Add more responsive styles as needed */
+}
+/*Pro Info And Support Info*/
+/* Default styles for larger screens */
+.two-col.wc-free-box-help12 {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+  margin-left: 13px;
+  margin-right: 13px;
+  box-shadow: beige;
+}
+
+.col.wc-free-box12,
+.col.wc-free-box13 {
+  position: relative;
+  background: #fff;
+  border: 1px solid #b5bfc9;
+  border-radius: 6px;
+  padding: 1.875rem;
+  flex-basis: calc(50% - 0.5rem);
+  border-radius: 6px;
+}
+
+.col.wc-free-box12 {
+  margin-right: 1rem;
+}
+
+.col.wc-free-box12 header,
+.col.wc-free-box13 header {
+  margin-bottom: 1rem;
+}
+
+.col.wc-free-box12 h3,
+.col.wc-free-box13 h3 {
+  font-size: 1.5rem;
+}
+
+.wc-free-box-content12,
+.wc-free-box-content13 {
+  margin-top: 1rem;
+}
+
+.wc-free-list-icon12,
+.wc-free-list-icon13 {
+  list-style: none;
+  padding-left: 0;
+}
+
+.wc-free-list-icon12 li,
+.wc-free-list-icon13 li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.wc-free-list-icon12 li a,
+.wc-free-list-icon13 li a {
+  display: flex;
+  text-decoration: none;
+  color: #7f868d;
+}
+
+.wc-free-list-icon12 li a:hover,
+.wc-free-list-icon13 li a:hover {
+  color: #2271b1;
+}
+
+.wc-free-list-icon12 li .icon-button,
+.wc-free-list-icon13 li .icon-button {
+  background: none;
+  border: none;
+  padding: 0;
+  margin-right: 1rem;
+}
+
+.wc-free-list-icon12 li .icon-button i,
+.wc-free-list-icon13 li .icon-button i {
+  font-size: 24px;
+  line-height: 36px;
+  display: inline-block;
+  color: #ccc;
+  border-radius: 50%;
+  background: #eee;
+  height: 36px;
+  width: 36px;
+  text-align: center;
+}
+
+.wc-free-list-icon12 li strong,
+.wc-free-list-icon13 li strong {
+  color: black;
+  font-weight: bold;
+}
+
+.wc-free-list-icon12 li p,
+.wc-free-list-icon13 li p {
+  margin: 0;
+}
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+  .two-col.wc-free-box-help12 {
+    flex-direction: column;
+  }
+
+  .col.wc-free-box12,
+  .col.wc-free-box13 {
+    flex-basis: 100%;
+    margin-right: 0;
+    margin-bottom: 1rem;
+  }
+}
+
+
+/*ahmed pro end*/
+/* Default styles for larger screens */
+.gs-woo-cards {
+  float: left;
+  width: 16%;
+  background: #fafafa;
+  margin: 4px;
+  padding: 10px 10px;
+  text-align: center;
+  position: relative;
+  border: 1px solid #E5E5E5;
+  border-radius: 10px;
+  font-size: 14px;
+  border-color: white;
+}
+
+/* Default styles for tabs */
+.gs-woo-tabs-set,
+.gs-woo-tabs-set1 {
+  overflow: auto;
+  position: relative;
+  border: 1px solid #e5e5e5;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+  background: #fff;
+  border-radius: 10px;
+  width: initial;
+  padding: 15px;
+}
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+  .gs-woo-cards {
+    width: 90%; /* Make cards full-width on smaller screens */
+    margin: 4px 0; /* Adjust vertical margin */
+  }
+
+  .gs-woo-tabs-set,
+  .gs-woo-tabs-set1 {
+    width: auto; /* Make tabs full-width on smaller screens */
+  }
+  
+  .gs-woo-tabs-set1 {
+    opacity: 0.6; /* Reduce opacity for disabled tabs on smaller screens */
+  }
+}
+
+/* Style the alert container */
+/* Default styles for larger screens */
+.wc-alert-container {
+    background-color: #fff;
+    border: 1px solid #e0e0e0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+    padding: 20px;
+    margin: 20px 0;
+    text-align: center;
+}
+
+.wc-alert-icon {
+    display: inline-block;
+    font-size: 28px;
+    color: #ff6347;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.wc-alert-message {
+    font-size: 16px;
+    color: #333;
+    margin: 0;
+}
+
+.wc-alert-message a {
+    color: #0073e6;
+    text-decoration: underline;
+}
+
+.wc-alert-message a:hover {
+    color: #0056b3;
+}
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+    .wc-alert-container {
+        padding: 10px; /* Reduce padding for smaller screens */
+        margin: 10px 0;
+    }
+
+    .wc-alert-icon {
+        font-size: 24px; /* Reduce icon size for smaller screens */
+        margin-right: 8px;
+    }
+
+    .wc-alert-message {
+        font-size: 14px; /* Reduce font size for message text */
+    }
+}
+
+
+
+
+/* Mobile Responsive */
+
+@media screen and (max-width: 425px){
+                    
+  .gs-woo-tabs-set {
+    height: auto;
+    overflow: hidden;
+  }
+  .nav-tab {
+    font-size: 12px;
+  }
+
+  .gs-woo-in-fields p {
+    display: block;
+    align-items: center;
+    margin-left: 10px;
+    width: 90%;
+    text-align: center;
+  }
+
+  #gs-woo-code {
+    width: 100%;
+  }
+
+  .wpform-gs-alert-kk {
+    width: auto;
+  }
+
+  #wc-gsc-cta {
+    width: auto;
+  }
+
+  .gs-woo-in-fields h2 {
+    font-size: 14px;
+    margin-left: 160px;
+  }
+
+  .sheet-details.nav-tab-active {
+      margin-top: -39px;
+      margin-left: 30px;
+  }
+
+  .gs-woo-in-fields label {
+      font-weight: 500;
+      text-align: left;
+      font-size: 13px;
+  }
+
+  .wp-core-ui select, .wp-admin .form-table select {
+      min-height: 30px;
+      font-size: 13px;
+      line-height: 1.625;
+      padding: 5px 24px 5px 8px;
+  }
+
+  span.title1 {
+  color: #b8199a;
+  font-weight: 600;
+  font-size: 14px;
+  margin-left: 0px;   
+  }
+
+  input[type="radio"], input[type="checkbox"] {
+      margin-left: 35%;
+      height: 1.2rem;
+      width: 1.2rem;
+      display: -webkit-box;
+  }
+  input[type="checkbox"]:checked:before {
+      width: 1.500rem;
+      height: 1.500rem;
+
+  }
+  .gs-woo-cards {
+      width: 25%;
+      padding: 11px 5px;
+      height: 70px;
+      margin-left: 17px;
+  }
+  .gs-woo-fields select{
+      width: 180px;
+  }
+  p, .wp-die-message {
+      margin: 0.2em 0;
+  }    
+
+  .gs-woo-fields {
+      padding: 5px 0px;
+      margin-top: 7px;
+  }
+
+  .li-woo-header {
+  width: 50%;
+  /*padding: 5px 35px 7px 29px;*/
+  height: 75px;
+  }
+
+  .woo-header {
+      list-style-type: none;
+      padding: 6px;
+      width: 80%;
+      border: none;
+  }
+
+  .li-woo-header {
+      text-align: center;
+      float: right;
+      margin-right: -13px;
+      }
+   a.nav-tab.nav-tab-active {
+      font-size: 11px;
+   }
+   .woo-header label {
+      vertical-align : revert;
+      margin-left: -10px;
+      display: block;
+   }
+   .freeze_header_option {
+          font-size: 12px;
+          font-weight: bold;
+   }
+   #checkAllWooSheet {
+      display: inline-block;
+      margin-left: -3px; 
+   }
+   input[type="color"] {
+          width: 45%;
+          display: block;
+          margin-left: 26%;
+   }
+   button.button.button_primary.sync-orders{
+       width: 90%;
+       font-size: 12px;
+       padding: 0px;
+       font-size: 13px;
+     
+   }
+   input#woo-save-btn {
+      float: right;
+      margin-right: 32%;
+   }
+   .gs-woo-header-set{
+      overflow: hidden;
+  }
+span.title{
+  color: #28b819;
+}
+.upgradeHover:hover {
+  display: block;
+  visibility: hidden;
+    width: 90px;
+    background-color: #464646;
+    color: #fff;
+    text-align: left;
+    border-radius: 6px;
+    padding: 4px 4px;
+    position: absolute;
+    z-index: 1;
+    margin-top: 19px;
+    margin-left: -22px;
+}
+
+.woo-header-wrapper{
+  opacity: 0.8;
+}
+

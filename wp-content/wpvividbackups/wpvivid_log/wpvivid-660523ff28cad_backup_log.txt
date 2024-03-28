@@ -1,0 +1,281 @@
+Log created: 2024-03-28 08:02:07
+Type: backup
+[2024-03-28 08:02:09][notice]Start backing up.
+[2024-03-28 08:02:09][notice]server info fcgi:On max execution time: 180 wp version:6.4.3 php version:8.1.23 db version:8.0.16 php ini:safe_mode: memory_limit:256M memory_get_usage:83.08 MB memory_get_peak_usage:83.57 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2024-03-28 08:02:09][notice]Prepare to backup backup_db files.
+[2024-03-28 08:02:09][notice]Start exporting database.
+[2024-03-28 08:02:09][notice]Preparing to dump table wp_wc_category_lookup
+[2024-03-28 08:02:09][notice]Preparing to dump table wp_wc_reserved_stock
+[2024-03-28 08:02:09][notice]Preparing to dump table wp_woocommerce_shipping_zone_methods
+[2024-03-28 08:02:09][notice]Preparing to dump table wp_woocommerce_shipping_zones
+[2024-03-28 08:02:09][notice]Preparing to dump table wp_actionscheduler_claims
+[2024-03-28 08:02:09][notice]Preparing to dump table wp_actionscheduler_groups
+[2024-03-28 08:02:09][notice]Preparing to dump table wp_e_events
+[2024-03-28 08:02:09][notice]Preparing to dump table wp_links
+[2024-03-28 08:02:09][notice]Preparing to dump table wp_term_relationships
+[2024-03-28 08:02:09][notice]Preparing to dump table wp_wc_product_attributes_lookup
+[2024-03-28 08:02:09][notice]Preparing to dump table wp_wc_product_download_directories
+[2024-03-28 08:02:09][notice]Preparing to dump table wp_wc_rate_limits
+[2024-03-28 08:02:09][notice]Preparing to dump table wp_wc_tax_rate_classes
+[2024-03-28 08:02:09][notice]Preparing to dump table wp_wc_webhooks
+[2024-03-28 08:02:09][notice]Preparing to dump table wp_woocommerce_attribute_taxonomies
+[2024-03-28 08:02:09][notice]Preparing to dump table wp_woocommerce_log
+[2024-03-28 08:02:09][notice]Preparing to dump table wp_woocommerce_order_items
+[2024-03-28 08:02:10][notice]Preparing to dump table wp_woocommerce_payment_tokens
+[2024-03-28 08:02:10][notice]Preparing to dump table wp_woocommerce_sessions
+[2024-03-28 08:02:10][notice]Preparing to dump table wp_commentmeta
+[2024-03-28 08:02:10][notice]Preparing to dump table wp_e_submissions_values
+[2024-03-28 08:02:10][notice]Preparing to dump table wp_term_taxonomy
+[2024-03-28 08:02:10][notice]Preparing to dump table wp_termmeta
+[2024-03-28 08:02:10][notice]Preparing to dump table wp_terms
+[2024-03-28 08:02:10][notice]Preparing to dump table wp_usermeta
+[2024-03-28 08:02:10][notice]Preparing to dump table wp_wc_customer_lookup
+[2024-03-28 08:02:10][notice]Preparing to dump table wp_wc_download_log
+[2024-03-28 08:02:10][notice]Preparing to dump table wp_wc_order_coupon_lookup
+[2024-03-28 08:02:10][notice]Preparing to dump table wp_wc_order_operational_data
+[2024-03-28 08:02:10][notice]Preparing to dump table wp_wc_order_tax_lookup
+[2024-03-28 08:02:10][notice]Preparing to dump table wp_woocommerce_api_keys
+[2024-03-28 08:02:10][notice]Preparing to dump table wp_woocommerce_payment_tokenmeta
+[2024-03-28 08:02:10][notice]Preparing to dump table wp_woocommerce_shipping_zone_locations
+[2024-03-28 08:02:10][notice]Preparing to dump table wp_woocommerce_tax_rate_locations
+[2024-03-28 08:02:10][notice]Preparing to dump table wp_users
+[2024-03-28 08:02:10][notice]Preparing to dump table wp_wc_admin_note_actions
+[2024-03-28 08:02:10][notice]Preparing to dump table wp_wc_admin_notes
+[2024-03-28 08:02:10][notice]Preparing to dump table wp_wc_order_stats
+[2024-03-28 08:02:10][notice]Preparing to dump table wp_cartflows_visits
+[2024-03-28 08:02:10][notice]Preparing to dump table wp_wc_order_addresses
+[2024-03-28 08:02:10][notice]Preparing to dump table wp_wc_order_product_lookup
+[2024-03-28 08:02:10][notice]Preparing to dump table wp_woocommerce_downloadable_product_permissions
+[2024-03-28 08:02:10][notice]Preparing to dump table wp_woocommerce_tax_rates
+[2024-03-28 08:02:10][notice]Preparing to dump table wp_woocommerce_order_itemmeta
+[2024-03-28 08:02:10][notice]Preparing to dump table wp_comments
+[2024-03-28 08:02:10][notice]Preparing to dump table wp_wc_product_meta_lookup
+[2024-03-28 08:02:10][notice]Preparing to dump table wp_cartflows_visits_meta
+[2024-03-28 08:02:10][notice]Preparing to dump table wp_e_submissions_actions_log
+[2024-03-28 08:02:10][notice]Preparing to dump table wp_wc_orders
+[2024-03-28 08:02:10][notice]Preparing to dump table wp_wc_orders_meta
+[2024-03-28 08:02:10][notice]Preparing to dump table wp_e_submissions
+[2024-03-28 08:02:10][notice]Preparing to dump table wp_actionscheduler_logs
+[2024-03-28 08:02:10][notice]Preparing to dump table wp_actionscheduler_actions
+[2024-03-28 08:02:10][notice]Preparing to dump table wp_options
+[2024-03-28 08:02:10][notice]Preparing to dump table wp_posts
+[2024-03-28 08:02:10][notice]Preparing to dump table wp_postmeta
+[2024-03-28 08:02:10][notice]Exporting database finished.
+[2024-03-28 08:02:10][notice]Start compressing database
+[2024-03-28 08:02:10][notice]Prepare to zip file. file: landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_db.sql
+[2024-03-28 08:02:11][notice]Adding zip files completed.landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_db.part001.zip, filesize: 1.97 MB
+[2024-03-28 08:02:11][notice]Compressing database completed
+[2024-03-28 08:02:11][notice]Backing up backup_db completed.
+[2024-03-28 08:02:11][notice]Prepare to backup backup_themes files.
+[2024-03-28 08:02:12][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_themes.part001.zip index:500
+[2024-03-28 08:02:19][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_themes.part001.zip success. index:500 file size:10.97 MB
+[2024-03-28 08:02:19][notice]Backing up backup_themes completed.
+[2024-03-28 08:02:19][notice]Prepare to backup backup_plugin files.
+[2024-03-28 08:02:24][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_plugin.part001.zip index:500
+[2024-03-28 08:02:31][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_plugin.part001.zip success. index:500 file size:3.08 MB
+[2024-03-28 08:02:31][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_plugin.part001.zip index:1000
+[2024-03-28 08:02:40][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_plugin.part001.zip success. index:1000 file size:6.52 MB
+[2024-03-28 08:02:40][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_plugin.part001.zip index:1500
+[2024-03-28 08:02:53][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_plugin.part001.zip success. index:1500 file size:14.57 MB
+[2024-03-28 08:02:53][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_plugin.part001.zip index:2000
+[2024-03-28 08:03:00][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_plugin.part001.zip success. index:2000 file size:15.70 MB
+[2024-03-28 08:03:00][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_plugin.part001.zip index:2500
+[2024-03-28 08:03:06][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_plugin.part001.zip success. index:2500 file size:18.11 MB
+[2024-03-28 08:03:06][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_plugin.part001.zip index:3000
+[2024-03-28 08:03:17][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_plugin.part001.zip success. index:3000 file size:19.29 MB
+[2024-03-28 08:03:17][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_plugin.part001.zip index:3500
+[2024-03-28 08:03:31][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_plugin.part001.zip success. index:3500 file size:20.27 MB
+[2024-03-28 08:03:31][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_plugin.part001.zip index:4000
+[2024-03-28 08:03:42][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_plugin.part001.zip success. index:4000 file size:20.94 MB
+[2024-03-28 08:03:42][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_plugin.part001.zip index:4500
+[2024-03-28 08:03:52][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_plugin.part001.zip success. index:4500 file size:21.73 MB
+[2024-03-28 08:03:52][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_plugin.part001.zip index:5000
+[2024-03-28 08:03:55][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_plugin.part001.zip success. index:5000 file size:24.09 MB
+[2024-03-28 08:03:55][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_plugin.part001.zip index:5500
+[2024-03-28 08:03:57][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_plugin.part001.zip success. index:5500 file size:25.48 MB
+[2024-03-28 08:03:57][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_plugin.part001.zip index:6000
+[2024-03-28 08:03:59][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_plugin.part001.zip success. index:6000 file size:26.85 MB
+[2024-03-28 08:03:59][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_plugin.part001.zip index:6500
+[2024-03-28 08:04:10][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_plugin.part001.zip success. index:6500 file size:38.12 MB
+[2024-03-28 08:04:10][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_plugin.part001.zip index:7000
+[2024-03-28 08:04:17][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_plugin.part001.zip success. index:7000 file size:39.53 MB
+[2024-03-28 08:04:17][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_plugin.part001.zip index:7500
+[2024-03-28 08:04:21][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_plugin.part001.zip success. index:7500 file size:40.34 MB
+[2024-03-28 08:04:21][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_plugin.part001.zip index:8000
+[2024-03-28 08:04:24][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_plugin.part001.zip success. index:8000 file size:41.18 MB
+[2024-03-28 08:04:24][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_plugin.part001.zip index:8500
+[2024-03-28 08:04:35][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_plugin.part001.zip success. index:8500 file size:41.85 MB
+[2024-03-28 08:04:35][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_plugin.part001.zip index:9000
+[2024-03-28 08:04:37][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_plugin.part001.zip success. index:9000 file size:41.89 MB
+[2024-03-28 08:04:38][notice]Backing up backup_plugin completed.
+[2024-03-28 08:04:38][notice]Prepare to backup backup_uploads files.
+[2024-03-28 08:04:38][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_uploads.part001.zip index:500
+[2024-03-28 08:04:38][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_uploads.part001.zip success. index:500 file size:1.15 MB
+[2024-03-28 08:04:38][notice]Backing up backup_uploads completed.
+[2024-03-28 08:04:38][notice]Prepare to backup backup_content files.
+[2024-03-28 08:04:38][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_content.part001.zip index:500
+[2024-03-28 08:04:38][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_content.part001.zip success. index:500 file size:2.34 KB
+[2024-03-28 08:04:38][notice]Backing up backup_content completed.
+[2024-03-28 08:04:38][notice]Prepare to backup backup_core files.
+[2024-03-28 08:04:39][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_core.part001.zip index:500
+[2024-03-28 08:04:49][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_core.part001.zip success. index:500 file size:2.24 MB
+[2024-03-28 08:04:49][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_core.part001.zip index:1000
+[2024-03-28 08:04:55][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_core.part001.zip success. index:1000 file size:2.79 MB
+[2024-03-28 08:04:55][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_core.part001.zip index:1500
+[2024-03-28 08:04:57][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_core.part001.zip success. index:1500 file size:4.05 MB
+[2024-03-28 08:04:57][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_core.part001.zip index:2000
+[2024-03-28 08:05:02][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_core.part001.zip success. index:2000 file size:10.27 MB
+[2024-03-28 08:05:02][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_core.part001.zip index:2500
+[2024-03-28 08:05:05][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_core.part001.zip success. index:2500 file size:13.17 MB
+[2024-03-28 08:05:05][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_core.part001.zip index:3000
+[2024-03-28 08:05:08][notice]Compressing zip file:landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_core.part001.zip success. index:3000 file size:13.64 MB
+[2024-03-28 08:05:08][notice]Backing up backup_core completed.
+[2024-03-28 08:05:08][notice]Prepare to backup backup_merge files.
+[2024-03-28 08:05:08][notice]Prepare to zip file. file: landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_db.zip
+[2024-03-28 08:05:08][notice]Adding zip files completed.landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.part001.zip, filesize: 1.60 MB
+[2024-03-28 08:05:08][notice]Prepare to zip file. file: landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_themes.zip
+[2024-03-28 08:05:09][notice]Adding zip files completed.landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.part001.zip, filesize: 12.50 MB
+[2024-03-28 08:05:09][notice]Prepare to zip file. file: landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_plugin.zip
+[2024-03-28 08:05:11][notice]Adding zip files completed.landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.part001.zip, filesize: 52.51 MB
+[2024-03-28 08:05:11][notice]Prepare to zip file. file: landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_uploads.zip
+[2024-03-28 08:05:11][notice]Adding zip files completed.landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.part001.zip, filesize: 53.65 MB
+[2024-03-28 08:05:11][notice]Prepare to zip file. file: landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_content.zip
+[2024-03-28 08:05:11][notice]Adding zip files completed.landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.part001.zip, filesize: 53.65 MB
+[2024-03-28 08:05:11][notice]Prepare to zip file. file: landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_core.zip
+[2024-03-28 08:05:12][notice]Adding zip files completed.landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.part001.zip, filesize: 66.91 MB
+[2024-03-28 08:05:12][notice]Backing up backup_merge completed.
+[2024-03-28 08:05:12][notice]files: ["C:\/Users\/Hp\/Local Sites\/landing-page\/app\/public\/wp-content\/wpvividbackups\/landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip"]
+[2024-03-28 08:05:12][notice]Check upload folder wpvivid_backup
+[2024-03-28 08:05:14][notice]Start uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip
+[2024-03-28 08:05:14][notice]Check if the server already has the same name file.
+[2024-03-28 08:05:14][notice]Initiate a resumable upload session.
+[2024-03-28 08:05:19][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 1.00 MB speed:209.72kb/s
+[2024-03-28 08:05:19][notice]progress:1048576.
+[2024-03-28 08:05:23][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 2.00 MB speed:262.14kb/s
+[2024-03-28 08:05:23][notice]progress:2097152.
+[2024-03-28 08:05:26][notice]progress:3145728.
+[2024-03-28 08:05:30][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 4.00 MB speed:299.59kb/s
+[2024-03-28 08:05:30][notice]progress:4194304.
+[2024-03-28 08:05:35][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 5.00 MB speed:209.72kb/s
+[2024-03-28 08:05:35][notice]progress:5242880.
+[2024-03-28 08:05:39][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 6.00 MB speed:262.14kb/s
+[2024-03-28 08:05:39][notice]progress:6291456.
+[2024-03-28 08:05:43][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 7.00 MB speed:262.14kb/s
+[2024-03-28 08:05:43][notice]progress:7340032.
+[2024-03-28 08:05:48][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 8.00 MB speed:209.72kb/s
+[2024-03-28 08:05:48][notice]progress:8388608.
+[2024-03-28 08:05:51][notice]progress:9437184.
+[2024-03-28 08:05:55][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 10.00 MB speed:299.59kb/s
+[2024-03-28 08:05:55][notice]progress:10485760.
+[2024-03-28 08:05:59][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 11.00 MB speed:262.14kb/s
+[2024-03-28 08:05:59][notice]progress:11534336.
+[2024-03-28 08:06:03][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 12.00 MB speed:262.14kb/s
+[2024-03-28 08:06:03][notice]progress:12582912.
+[2024-03-28 08:06:07][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 13.00 MB speed:262.14kb/s
+[2024-03-28 08:06:07][notice]progress:13631488.
+[2024-03-28 08:06:10][notice]progress:14680064.
+[2024-03-28 08:06:15][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 15.00 MB speed:262.14kb/s
+[2024-03-28 08:06:15][notice]progress:15728640.
+[2024-03-28 08:06:19][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 16.00 MB speed:262.14kb/s
+[2024-03-28 08:06:19][notice]progress:16777216.
+[2024-03-28 08:06:23][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 17.00 MB speed:262.14kb/s
+[2024-03-28 08:06:23][notice]progress:17825792.
+[2024-03-28 08:06:27][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 18.00 MB speed:262.14kb/s
+[2024-03-28 08:06:27][notice]progress:18874368.
+[2024-03-28 08:06:31][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 19.00 MB speed:262.14kb/s
+[2024-03-28 08:06:31][notice]progress:19922944.
+[2024-03-28 08:06:35][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 20.00 MB speed:262.14kb/s
+[2024-03-28 08:06:35][notice]progress:20971520.
+[2024-03-28 08:06:39][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 21.00 MB speed:262.14kb/s
+[2024-03-28 08:06:39][notice]progress:22020096.
+[2024-03-28 08:06:43][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 22.00 MB speed:262.14kb/s
+[2024-03-28 08:06:43][notice]progress:23068672.
+[2024-03-28 08:06:47][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 23.00 MB speed:262.14kb/s
+[2024-03-28 08:06:47][notice]progress:24117248.
+[2024-03-28 08:06:51][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 24.00 MB speed:262.14kb/s
+[2024-03-28 08:06:51][notice]progress:25165824.
+[2024-03-28 08:06:54][notice]progress:26214400.
+[2024-03-28 08:06:57][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 26.00 MB speed:349.53kb/s
+[2024-03-28 08:06:57][notice]progress:27262976.
+[2024-03-28 08:07:01][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 27.00 MB speed:262.14kb/s
+[2024-03-28 08:07:01][notice]progress:28311552.
+[2024-03-28 08:07:05][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 28.00 MB speed:262.14kb/s
+[2024-03-28 08:07:05][notice]progress:29360128.
+[2024-03-28 08:07:10][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 29.00 MB speed:209.72kb/s
+[2024-03-28 08:07:10][notice]progress:30408704.
+[2024-03-28 08:07:13][notice]progress:31457280.
+[2024-03-28 08:07:17][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 31.00 MB speed:299.59kb/s
+[2024-03-28 08:07:17][notice]progress:32505856.
+[2024-03-28 08:07:21][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 32.00 MB speed:262.14kb/s
+[2024-03-28 08:07:21][notice]progress:33554432.
+[2024-03-28 08:07:25][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 33.00 MB speed:262.14kb/s
+[2024-03-28 08:07:26][notice]progress:34603008.
+[2024-03-28 08:07:30][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 34.00 MB speed:262.14kb/s
+[2024-03-28 08:07:30][notice]progress:35651584.
+[2024-03-28 08:07:34][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 35.00 MB speed:262.14kb/s
+[2024-03-28 08:07:34][notice]progress:36700160.
+[2024-03-28 08:07:38][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 36.00 MB speed:262.14kb/s
+[2024-03-28 08:07:38][notice]progress:37748736.
+[2024-03-28 08:07:42][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 37.00 MB speed:262.14kb/s
+[2024-03-28 08:07:42][notice]progress:38797312.
+[2024-03-28 08:07:46][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 38.00 MB speed:262.14kb/s
+[2024-03-28 08:07:46][notice]progress:39845888.
+[2024-03-28 08:07:49][notice]progress:40894464.
+[2024-03-28 08:07:53][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 40.00 MB speed:299.59kb/s
+[2024-03-28 08:07:53][notice]progress:41943040.
+[2024-03-28 08:07:56][notice]progress:42991616.
+[2024-03-28 08:08:00][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 42.00 MB speed:299.59kb/s
+[2024-03-28 08:08:00][notice]progress:44040192.
+[2024-03-28 08:08:04][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 43.00 MB speed:262.14kb/s
+[2024-03-28 08:08:04][notice]progress:45088768.
+[2024-03-28 08:08:08][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 44.00 MB speed:262.14kb/s
+[2024-03-28 08:08:08][notice]progress:46137344.
+[2024-03-28 08:08:12][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 45.00 MB speed:262.14kb/s
+[2024-03-28 08:08:12][notice]progress:47185920.
+[2024-03-28 08:08:14][error]Task timed out.
+[2024-03-28 08:08:32][notice]Start backing up.
+[2024-03-28 08:08:32][notice]server info fcgi:On max execution time: 180 wp version:6.4.3 php version:8.1.23 db version:8.0.16 php ini:safe_mode: memory_limit:256M memory_get_usage:70.53 MB memory_get_peak_usage:70.88 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2024-03-28 08:08:32][notice]files: ["C:\/Users\/Hp\/Local Sites\/landing-page\/app\/public\/wp-content\/wpvividbackups\/landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip"]
+[2024-03-28 08:08:32][notice]Check upload folder wpvivid_backup
+[2024-03-28 08:08:33][notice]Start uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip
+[2024-03-28 08:08:33][notice]Check if the server already has the same name file.
+[2024-03-28 08:08:33][notice]Resume uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip.
+[2024-03-28 08:08:33][notice]resumeUri:https://www.googleapis.com/upload/drive/v3/files?uploadType=resumable&upload_id=ABPtcPqA-rysIQ14bVkpEYMUgpYDPOGxwXwHHapGbsxw5IxV_F9whxfgSHDqP9eacq2OgMTP1M4Xww7ZPw_E1Kubb4aIILeLr7JMnGLNz8Am3tNGcg.
+[2024-03-28 08:08:33][notice]progress:47185920.
+[2024-03-28 08:08:48][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 46.00 MB speed:3215.63kb/s
+[2024-03-28 08:08:48][notice]progress:48234496.
+[2024-03-28 08:08:52][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 47.00 MB speed:262.14kb/s
+[2024-03-28 08:08:52][notice]progress:49283072.
+[2024-03-28 08:08:55][notice]progress:50331648.
+[2024-03-28 08:08:58][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 49.00 MB speed:349.53kb/s
+[2024-03-28 08:08:58][notice]progress:51380224.
+[2024-03-28 08:09:01][notice]progress:52428800.
+[2024-03-28 08:09:04][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 51.00 MB speed:349.53kb/s
+[2024-03-28 08:09:04][notice]progress:53477376.
+[2024-03-28 08:09:07][notice]progress:54525952.
+[2024-03-28 08:09:10][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 53.00 MB speed:349.53kb/s
+[2024-03-28 08:09:10][notice]progress:55574528.
+[2024-03-28 08:09:13][notice]progress:56623104.
+[2024-03-28 08:09:15][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 55.00 MB speed:419.43kb/s
+[2024-03-28 08:09:15][notice]progress:57671680.
+[2024-03-28 08:09:18][notice]progress:58720256.
+[2024-03-28 08:09:21][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 57.00 MB speed:349.53kb/s
+[2024-03-28 08:09:21][notice]progress:59768832.
+[2024-03-28 08:09:24][notice]progress:60817408.
+[2024-03-28 08:09:26][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 59.00 MB speed:419.43kb/s
+[2024-03-28 08:09:26][notice]progress:61865984.
+[2024-03-28 08:09:29][notice]progress:62914560.
+[2024-03-28 08:09:32][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 61.00 MB speed:349.53kb/s
+[2024-03-28 08:09:32][notice]progress:63963136.
+[2024-03-28 08:09:35][notice]progress:65011712.
+[2024-03-28 08:09:38][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 63.00 MB speed:349.53kb/s
+[2024-03-28 08:09:38][notice]progress:66060288.
+[2024-03-28 08:09:41][notice]progress:67108864.
+[2024-03-28 08:09:44][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 65.00 MB speed:349.53kb/s
+[2024-03-28 08:09:44][notice]progress:68157440.
+[2024-03-28 08:09:47][notice]progress:69206016.
+[2024-03-28 08:09:51][notice]Uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip Total size: 66.91 MB Uploaded: 66.91 MB speed:285.67kb/s
+[2024-03-28 08:09:51][notice]progress:69206016.
+[2024-03-28 08:09:51][notice]Finished uploading landing-page.local_wpvivid-660523ff28cad_2024-03-28-08-02_backup_all.zip
+[2024-03-28 08:09:51][notice]Upload success.
+[2024-03-28 08:09:51][notice]Finish upload to googledrive

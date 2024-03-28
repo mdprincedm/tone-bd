@@ -1,0 +1,262 @@
+2024-03-09T00:44:03+00:00 INFO ==== Session Set Info ====
+Flow-18 Session Set : 18_38f64e910390b69d7fd1a07b6e897634
+Flow Info: {"flow_id":"18","steps":[{"id":20,"title":"Pet Food Checkout","type":"checkout"},{"id":25,"title":"Pet Food Thank You","type":"thankyou"}]}
+ Current Step-checkout
+==== Session Set Info ====
+
+2024-03-09T00:44:03+00:00 INFO Cartflows_Pro_Analytics_Tracking::save_conversion : Entering 
+2024-03-09T00:44:03+00:00 INFO 
+==== Log Start ====
+2024-03-09T00:44:03+00:00 INFO Step cookie data : 
+[]
+2024-03-09T00:44:03+00:00 INFO ==== Log End ====
+
+2024-03-09T00:44:03+00:00 INFO Cartflows_Pro_Analytics_Tracking::save_conversion : Exit 
+2024-03-09T01:37:19+00:00 INFO ==== Session Set Info ====
+Flow-18 Session Set : 18_01e7833cb3aa8fad3ed4ffa00b93cc22
+Flow Info: {"flow_id":"18","steps":[{"id":20,"title":"Pet Food Checkout","type":"checkout"},{"id":25,"title":"Pet Food Thank You","type":"thankyou"}]}
+ Current Step-checkout
+==== Session Set Info ====
+
+2024-03-09T01:37:19+00:00 INFO Cartflows_Pro_Analytics_Tracking::save_conversion : Entering 
+2024-03-09T01:37:19+00:00 INFO 
+==== Log Start ====
+2024-03-09T01:37:19+00:00 INFO Step cookie data : 
+[]
+2024-03-09T01:37:19+00:00 INFO ==== Log End ====
+
+2024-03-09T01:37:19+00:00 INFO Cartflows_Pro_Analytics_Tracking::save_conversion : Exit 
+2024-03-09T02:48:55+00:00 INFO ==== Session Set Info ====
+Flow-18 Session Set : 18_0abb023ea5b00ee64a64439e22b0d828
+Flow Info: {"flow_id":"18","steps":[{"id":20,"title":"Pet Food Checkout","type":"checkout"},{"id":25,"title":"Pet Food Thank You","type":"thankyou"}]}
+ Current Step-checkout
+==== Session Set Info ====
+
+2024-03-09T02:48:58+00:00 INFO ==== Session Set Info ====
+Flow-18 Session Set : 18_f0f09026ace6e2afb5412d3ab57378a4
+Flow Info: {"flow_id":"18","steps":[{"id":20,"title":"Pet Food Checkout","type":"checkout"},{"id":25,"title":"Pet Food Thank You","type":"thankyou"}]}
+ Current Step-checkout
+==== Session Set Info ====
+
+2024-03-09T02:48:58+00:00 INFO Cartflows_Pro_Analytics_Tracking::save_conversion : Entering 
+2024-03-09T02:48:58+00:00 INFO 
+==== Log Start ====
+2024-03-09T02:48:58+00:00 INFO Step cookie data : 
+[]
+2024-03-09T02:48:58+00:00 INFO ==== Log End ====
+
+2024-03-09T02:48:58+00:00 INFO Cartflows_Pro_Analytics_Tracking::save_conversion : Exit 
+2024-03-09T04:26:58+00:00 INFO ==== Session Set Info ====
+Flow-18 Session Set : 18_de0265153ed834cd655b8173e0536173
+Flow Info: {"flow_id":"18","steps":[{"id":20,"title":"Pet Food Checkout","type":"checkout"},{"id":25,"title":"Pet Food Thank You","type":"thankyou"}]}
+ Current Step-checkout
+==== Session Set Info ====
+
+2024-03-09T04:26:58+00:00 INFO ==== Session Set Info ====
+Flow-18 Session Set : 18_c29587541d9cc53ebe7b5b023efa2f22
+Flow Info: {"flow_id":"18","steps":[{"id":20,"title":"Pet Food Checkout","type":"checkout"},{"id":25,"title":"Pet Food Thank You","type":"thankyou"}]}
+ Current Step-checkout
+==== Session Set Info ====
+
+2024-03-09T04:26:59+00:00 INFO Cartflows_Pro_Analytics_Tracking::save_conversion : Entering 
+2024-03-09T04:26:59+00:00 INFO 
+==== Log Start ====
+2024-03-09T04:26:59+00:00 INFO Step cookie data : 
+[]
+2024-03-09T04:26:59+00:00 INFO ==== Log End ====
+
+2024-03-09T04:26:59+00:00 INFO Cartflows_Pro_Analytics_Tracking::save_conversion : Exit 
+2024-03-09T04:26:59+00:00 INFO Cartflows_Pro_Analytics_Tracking::save_conversion : Entering 
+2024-03-09T04:26:59+00:00 INFO 
+==== Log Start ====
+2024-03-09T04:26:59+00:00 INFO Step cookie data : 
+[]
+2024-03-09T04:26:59+00:00 INFO ==== Log End ====
+
+2024-03-09T04:26:59+00:00 INFO Cartflows_Pro_Analytics_Tracking::save_conversion : Exit 
+2024-03-09T06:57:19+00:00 INFO ==== Session Set Info ====
+Flow-18 Session Set : 18_1c3651fe3fed606a216cfd25a58c99b6
+Flow Info: {"flow_id":"18","steps":[{"id":20,"title":"Pet Food Checkout","type":"checkout"},{"id":25,"title":"Pet Food Thank You","type":"thankyou"}]}
+ Current Step-checkout
+==== Session Set Info ====
+
+2024-03-09T07:16:04+00:00 INFO ==== Session Set Info ====
+Flow-18 Session Set : 18_fd5fabf851a0484402b787584e41ce16
+Flow Info: {"flow_id":"18","steps":[{"id":20,"title":"Pet Food Checkout","type":"checkout"},{"id":25,"title":"Pet Food Thank You","type":"thankyou"}]}
+ Current Step-checkout
+==== Session Set Info ====
+
+2024-03-09T07:16:04+00:00 INFO Cartflows_Pro_Analytics_Tracking::save_conversion : Entering 
+2024-03-09T07:16:04+00:00 INFO 
+==== Log Start ====
+2024-03-09T07:16:04+00:00 INFO Step cookie data : 
+[]
+2024-03-09T07:16:04+00:00 INFO ==== Log End ====
+
+2024-03-09T07:16:04+00:00 INFO Cartflows_Pro_Analytics_Tracking::save_conversion : Exit 
+2024-03-09T07:40:02+00:00 INFO ==== Session Set Info ====
+Flow-18 Session Set : 18_695f31c33c90082d597adeaeb54db37c
+Flow Info: {"flow_id":"18","steps":[{"id":20,"title":"Pet Food Checkout","type":"checkout"},{"id":25,"title":"Pet Food Thank You","type":"thankyou"}]}
+ Current Step-checkout
+==== Session Set Info ====
+
+2024-03-09T07:40:02+00:00 INFO Cartflows_Pro_Analytics_Tracking::save_conversion : Entering 
+2024-03-09T07:40:02+00:00 INFO 
+==== Log Start ====
+2024-03-09T07:40:02+00:00 INFO Step cookie data : 
+[]
+2024-03-09T07:40:02+00:00 INFO ==== Log End ====
+
+2024-03-09T07:40:02+00:00 INFO Cartflows_Pro_Analytics_Tracking::save_conversion : Exit 
+2024-03-09T12:46:44+00:00 INFO ==== Session Set Info ====
+Flow-18 Session Set : 18_0d436281f8e56752c272495c3485013d
+Flow Info: {"flow_id":"18","steps":[{"id":20,"title":"Pet Food Checkout","type":"checkout"},{"id":25,"title":"Pet Food Thank You","type":"thankyou"}]}
+ Current Step-checkout
+==== Session Set Info ====
+
+2024-03-09T12:46:44+00:00 INFO Cartflows_Pro_Analytics_Tracking::save_conversion : Entering 
+2024-03-09T12:46:44+00:00 INFO 
+==== Log Start ====
+2024-03-09T12:46:44+00:00 INFO Step cookie data : 
+[]
+2024-03-09T12:46:44+00:00 INFO ==== Log End ====
+
+2024-03-09T12:46:44+00:00 INFO Cartflows_Pro_Analytics_Tracking::save_conversion : Exit 
+2024-03-09T14:36:02+00:00 INFO ==== Session Set Info ====
+Flow-18 Session Set : 18_b6af4deb2191a6c878d78397dc16e37d
+Flow Info: {"flow_id":"18","steps":[{"id":20,"title":"Pet Food Checkout","type":"checkout"},{"id":25,"title":"Pet Food Thank You","type":"thankyou"}]}
+ Current Step-checkout
+==== Session Set Info ====
+
+2024-03-09T14:36:02+00:00 INFO Cartflows_Pro_Analytics_Tracking::save_conversion : Entering 
+2024-03-09T14:36:02+00:00 INFO 
+==== Log Start ====
+2024-03-09T14:36:02+00:00 INFO Step cookie data : 
+[]
+2024-03-09T14:36:02+00:00 INFO ==== Log End ====
+
+2024-03-09T14:36:02+00:00 INFO Cartflows_Pro_Analytics_Tracking::save_conversion : Exit 
+2024-03-09T15:21:23+00:00 INFO ==== Session Set Info ====
+Flow-18 Session Set : 18_0ce3f85fdc28762c24b18287e0230412
+Flow Info: {"flow_id":"18","steps":[{"id":20,"title":"Pet Food Checkout","type":"checkout"},{"id":25,"title":"Pet Food Thank You","type":"thankyou"}]}
+ Current Step-checkout
+==== Session Set Info ====
+
+2024-03-09T15:21:25+00:00 INFO ==== Session Set Info ====
+Flow-18 Session Set : 18_231c81b0680175fd676ab9c8720e7b30
+Flow Info: {"flow_id":"18","steps":[{"id":20,"title":"Pet Food Checkout","type":"checkout"},{"id":25,"title":"Pet Food Thank You","type":"thankyou"}]}
+ Current Step-checkout
+==== Session Set Info ====
+
+2024-03-09T15:21:25+00:00 INFO Cartflows_Pro_Analytics_Tracking::save_conversion : Entering 
+2024-03-09T15:21:25+00:00 INFO 
+==== Log Start ====
+2024-03-09T15:21:25+00:00 INFO Step cookie data : 
+[]
+2024-03-09T15:21:25+00:00 INFO ==== Log End ====
+
+2024-03-09T15:21:25+00:00 INFO Cartflows_Pro_Analytics_Tracking::save_conversion : Exit 
+2024-03-09T15:47:56+00:00 INFO ==== Session Set Info ====
+Flow-18 Session Set : 18_1b109e4526ecd74c32b8e6effac9029b
+Flow Info: {"flow_id":"18","steps":[{"id":20,"title":"Pet Food Checkout","type":"checkout"},{"id":25,"title":"Pet Food Thank You","type":"thankyou"}]}
+ Current Step-checkout
+==== Session Set Info ====
+
+2024-03-09T15:47:57+00:00 INFO ==== Session Set Info ====
+Flow-18 Session Set : 18_d69f0832da8ef1a682c4755947b1a43d
+Flow Info: {"flow_id":"18","steps":[{"id":20,"title":"Pet Food Checkout","type":"checkout"},{"id":25,"title":"Pet Food Thank You","type":"thankyou"}]}
+ Current Step-checkout
+==== Session Set Info ====
+
+2024-03-09T15:47:57+00:00 INFO Cartflows_Pro_Analytics_Tracking::save_conversion : Entering 
+2024-03-09T15:47:57+00:00 INFO 
+==== Log Start ====
+2024-03-09T15:47:57+00:00 INFO Step cookie data : 
+[]
+2024-03-09T15:47:57+00:00 INFO ==== Log End ====
+
+2024-03-09T15:47:57+00:00 INFO Cartflows_Pro_Analytics_Tracking::save_conversion : Exit 
+2024-03-09T15:51:47+00:00 INFO ==== Session Set Info ====
+Flow-18 Session Set : 18_508153ad788ba6b2d15b46e7c6b683ee
+Flow Info: {"flow_id":"18","steps":[{"id":20,"title":"Pet Food Checkout","type":"checkout"},{"id":25,"title":"Pet Food Thank You","type":"thankyou"}]}
+ Current Step-checkout
+==== Session Set Info ====
+
+2024-03-09T15:51:47+00:00 INFO Cartflows_Pro_Analytics_Tracking::save_conversion : Entering 
+2024-03-09T15:51:47+00:00 INFO 
+==== Log Start ====
+2024-03-09T15:51:47+00:00 INFO Step cookie data : 
+[]
+2024-03-09T15:51:47+00:00 INFO ==== Log End ====
+
+2024-03-09T15:51:47+00:00 INFO Cartflows_Pro_Analytics_Tracking::save_conversion : Exit 
+2024-03-09T16:11:58+00:00 INFO ==== Session Set Info ====
+Flow-18 Session Set : 18_fc962dab1779596a57b5cfa9af961051
+Flow Info: {"flow_id":"18","steps":[{"id":20,"title":"Pet Food Checkout","type":"checkout"},{"id":25,"title":"Pet Food Thank You","type":"thankyou"}]}
+ Current Step-checkout
+==== Session Set Info ====
+
+2024-03-09T16:11:58+00:00 INFO Cartflows_Pro_Analytics_Tracking::save_conversion : Entering 
+2024-03-09T16:11:58+00:00 INFO 
+==== Log Start ====
+2024-03-09T16:11:58+00:00 INFO Step cookie data : 
+[]
+2024-03-09T16:11:58+00:00 INFO ==== Log End ====
+
+2024-03-09T16:11:58+00:00 INFO Cartflows_Pro_Analytics_Tracking::save_conversion : Exit 
+2024-03-09T18:44:35+00:00 INFO ==== Session Set Info ====
+Flow-18 Session Set : 18_34f8a8cb83c6cae105668ac80ab0e5d1
+Flow Info: {"flow_id":"18","steps":[{"id":20,"title":"Pet Food Checkout","type":"checkout"},{"id":25,"title":"Pet Food Thank You","type":"thankyou"}]}
+ Current Step-checkout
+==== Session Set Info ====
+
+2024-03-09T18:44:35+00:00 INFO Cartflows_Pro_Analytics_Tracking::save_conversion : Entering 
+2024-03-09T18:44:35+00:00 INFO 
+==== Log Start ====
+2024-03-09T18:44:35+00:00 INFO Step cookie data : 
+[]
+2024-03-09T18:44:35+00:00 INFO ==== Log End ====
+
+2024-03-09T18:44:35+00:00 INFO Cartflows_Pro_Analytics_Tracking::save_conversion : Exit 
+2024-03-09T18:47:03+00:00 INFO ==== Session Set Info ====
+Flow-18 Session Set : 18_be29e19b0b99ba1d1f2f3440f0d2a6b8
+Flow Info: {"flow_id":"18","steps":[{"id":20,"title":"Pet Food Checkout","type":"checkout"},{"id":25,"title":"Pet Food Thank You","type":"thankyou"}]}
+ Current Step-checkout
+==== Session Set Info ====
+
+2024-03-09T18:47:03+00:00 INFO Cartflows_Pro_Analytics_Tracking::save_conversion : Entering 
+2024-03-09T18:47:03+00:00 INFO 
+==== Log Start ====
+2024-03-09T18:47:03+00:00 INFO Step cookie data : 
+[]
+2024-03-09T18:47:03+00:00 INFO ==== Log End ====
+
+2024-03-09T18:47:03+00:00 INFO Cartflows_Pro_Analytics_Tracking::save_conversion : Exit 
+2024-03-09T18:47:03+00:00 INFO ==== Session Set Info ====
+Flow-18 Session Set : 18_db7cd554fca76b1b4e37b72e7f6bcf8f
+Flow Info: {"flow_id":"18","steps":[{"id":20,"title":"Pet Food Checkout","type":"checkout"},{"id":25,"title":"Pet Food Thank You","type":"thankyou"}]}
+ Current Step-checkout
+==== Session Set Info ====
+
+2024-03-09T18:47:03+00:00 INFO Cartflows_Pro_Analytics_Tracking::save_conversion : Entering 
+2024-03-09T18:47:03+00:00 INFO 
+==== Log Start ====
+2024-03-09T18:47:03+00:00 INFO Step cookie data : 
+[]
+2024-03-09T18:47:03+00:00 INFO ==== Log End ====
+
+2024-03-09T18:47:03+00:00 INFO Cartflows_Pro_Analytics_Tracking::save_conversion : Exit 
+2024-03-09T20:24:18+00:00 INFO ==== Session Set Info ====
+Flow-18 Session Set : 18_154272a86ffced25a17a177e02bf2e99
+Flow Info: {"flow_id":"18","steps":[{"id":20,"title":"Pet Food Checkout","type":"checkout"},{"id":25,"title":"Pet Food Thank You","type":"thankyou"}]}
+ Current Step-checkout
+==== Session Set Info ====
+
+2024-03-09T20:24:18+00:00 INFO Cartflows_Pro_Analytics_Tracking::save_conversion : Entering 
+2024-03-09T20:24:18+00:00 INFO 
+==== Log Start ====
+2024-03-09T20:24:18+00:00 INFO Step cookie data : 
+[]
+2024-03-09T20:24:18+00:00 INFO ==== Log End ====
+
+2024-03-09T20:24:18+00:00 INFO Cartflows_Pro_Analytics_Tracking::save_conversion : Exit 
